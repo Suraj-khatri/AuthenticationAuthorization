@@ -1,0 +1,1656 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7A5DE1B-3E15-4B0A-BDF5-4038D3098552}|AuthenticationAuthorization.API\\AuthenticationAuthorization.API.csproj|e:\\authenticationauthorization\\authenticationauthorization.solution\\authenticationauthorization.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F7A5DE1B-3E15-4B0A-BDF5-4038D3098552}|AuthenticationAuthorization.API\\AuthenticationAuthorization.API.csproj|solutionrelative:authenticationauthorization.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7A5DE1B-3E15-4B0A-BDF5-4038D3098552}|AuthenticationAuthorization.API\\AuthenticationAuthorization.API.csproj|e:\\authenticationauthorization\\authenticationauthorization.solution\\authenticationauthorization.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7A5DE1B-3E15-4B0A-BDF5-4038D3098552}|AuthenticationAuthorization.API\\AuthenticationAuthorization.API.csproj|solutionrelative:authenticationauthorization.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81247EFD-3E66-4AEE-92C2-3CDCBF39A11F}|AuthenticationAuthorization.Domain\\AuthenticationAuthorization.Domain.csproj|e:\\authenticationauthorization\\authenticationauthorization.solution\\authenticationauthorization.domain\\options\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81247EFD-3E66-4AEE-92C2-3CDCBF39A11F}|AuthenticationAuthorization.Domain\\AuthenticationAuthorization.Domain.csproj|solutionrelative:authenticationauthorization.domain\\options\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7A5DE1B-3E15-4B0A-BDF5-4038D3098552}|AuthenticationAuthorization.API\\AuthenticationAuthorization.API.csproj|e:\\authenticationauthorization\\authenticationauthorization.solution\\authenticationauthorization.api\\middlewares\\globalexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7A5DE1B-3E15-4B0A-BDF5-4038D3098552}|AuthenticationAuthorization.API\\AuthenticationAuthorization.API.csproj|solutionrelative:authenticationauthorization.api\\middlewares\\globalexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7A5DE1B-3E15-4B0A-BDF5-4038D3098552}|AuthenticationAuthorization.API\\AuthenticationAuthorization.API.csproj|e:\\authenticationauthorization\\authenticationauthorization.solution\\authenticationauthorization.api\\middlewares\\authorize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7A5DE1B-3E15-4B0A-BDF5-4038D3098552}|AuthenticationAuthorization.API\\AuthenticationAuthorization.API.csproj|solutionrelative:authenticationauthorization.api\\middlewares\\authorize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7A5DE1B-3E15-4B0A-BDF5-4038D3098552}|AuthenticationAuthorization.API\\AuthenticationAuthorization.API.csproj|e:\\authenticationauthorization\\authenticationauthorization.solution\\authenticationauthorization.api\\helpers\\loggerhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7A5DE1B-3E15-4B0A-BDF5-4038D3098552}|AuthenticationAuthorization.API\\AuthenticationAuthorization.API.csproj|solutionrelative:authenticationauthorization.api\\helpers\\loggerhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D88976F-94E7-4811-8FD4-95ADD5CC1AB8}|AuthenticationAuthorization.Application\\AuthenticationAuthorization.Application.csproj|e:\\authenticationauthorization\\authenticationauthorization.solution\\authenticationauthorization.application\\queries\\branches\\getallbranchesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D88976F-94E7-4811-8FD4-95ADD5CC1AB8}|AuthenticationAuthorization.Application\\AuthenticationAuthorization.Application.csproj|solutionrelative:authenticationauthorization.application\\queries\\branches\\getallbranchesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7A5DE1B-3E15-4B0A-BDF5-4038D3098552}|AuthenticationAuthorization.API\\AuthenticationAuthorization.API.csproj|e:\\authenticationauthorization\\authenticationauthorization.solution\\authenticationauthorization.api\\controllers\\branchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7A5DE1B-3E15-4B0A-BDF5-4038D3098552}|AuthenticationAuthorization.API\\AuthenticationAuthorization.API.csproj|solutionrelative:authenticationauthorization.api\\controllers\\branchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D88976F-94E7-4811-8FD4-95ADD5CC1AB8}|AuthenticationAuthorization.Application\\AuthenticationAuthorization.Application.csproj|e:\\authenticationauthorization\\authenticationauthorization.solution\\authenticationauthorization.application\\command\\menus\\addmenuscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D88976F-94E7-4811-8FD4-95ADD5CC1AB8}|AuthenticationAuthorization.Application\\AuthenticationAuthorization.Application.csproj|solutionrelative:authenticationauthorization.application\\command\\menus\\addmenuscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D88976F-94E7-4811-8FD4-95ADD5CC1AB8}|AuthenticationAuthorization.Application\\AuthenticationAuthorization.Application.csproj|e:\\authenticationauthorization\\authenticationauthorization.solution\\authenticationauthorization.application\\dtos\\userdtos\\getuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D88976F-94E7-4811-8FD4-95ADD5CC1AB8}|AuthenticationAuthorization.Application\\AuthenticationAuthorization.Application.csproj|solutionrelative:authenticationauthorization.application\\dtos\\userdtos\\getuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D88976F-94E7-4811-8FD4-95ADD5CC1AB8}|AuthenticationAuthorization.Application\\AuthenticationAuthorization.Application.csproj|e:\\authenticationauthorization\\authenticationauthorization.solution\\authenticationauthorization.application\\dtos\\staticdatadetaildtos\\addstaticdatadetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D88976F-94E7-4811-8FD4-95ADD5CC1AB8}|AuthenticationAuthorization.Application\\AuthenticationAuthorization.Application.csproj|solutionrelative:authenticationauthorization.application\\dtos\\staticdatadetaildtos\\addstaticdatadetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D88976F-94E7-4811-8FD4-95ADD5CC1AB8}|AuthenticationAuthorization.Application\\AuthenticationAuthorization.Application.csproj|e:\\authenticationauthorization\\authenticationauthorization.solution\\authenticationauthorization.application\\dtos\\rolemenupermissiondtos\\addrolemenupermissiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D88976F-94E7-4811-8FD4-95ADD5CC1AB8}|AuthenticationAuthorization.Application\\AuthenticationAuthorization.Application.csproj|solutionrelative:authenticationauthorization.application\\dtos\\rolemenupermissiondtos\\addrolemenupermissiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D88976F-94E7-4811-8FD4-95ADD5CC1AB8}|AuthenticationAuthorization.Application\\AuthenticationAuthorization.Application.csproj|e:\\authenticationauthorization\\authenticationauthorization.solution\\authenticationauthorization.application\\dtos\\roledtos\\getroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D88976F-94E7-4811-8FD4-95ADD5CC1AB8}|AuthenticationAuthorization.Application\\AuthenticationAuthorization.Application.csproj|solutionrelative:authenticationauthorization.application\\dtos\\roledtos\\getroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D88976F-94E7-4811-8FD4-95ADD5CC1AB8}|AuthenticationAuthorization.Application\\AuthenticationAuthorization.Application.csproj|e:\\authenticationauthorization\\authenticationauthorization.solution\\authenticationauthorization.application\\dtos\\permissiondtos\\updatepermisiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D88976F-94E7-4811-8FD4-95ADD5CC1AB8}|AuthenticationAuthorization.Application\\AuthenticationAuthorization.Application.csproj|solutionrelative:authenticationauthorization.application\\dtos\\permissiondtos\\updatepermisiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D88976F-94E7-4811-8FD4-95ADD5CC1AB8}|AuthenticationAuthorization.Application\\AuthenticationAuthorization.Application.csproj|e:\\authenticationauthorization\\authenticationauthorization.solution\\authenticationauthorization.application\\dtos\\permissiondtos\\getpermissiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D88976F-94E7-4811-8FD4-95ADD5CC1AB8}|AuthenticationAuthorization.Application\\AuthenticationAuthorization.Application.csproj|solutionrelative:authenticationauthorization.application\\dtos\\permissiondtos\\getpermissiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D88976F-94E7-4811-8FD4-95ADD5CC1AB8}|AuthenticationAuthorization.Application\\AuthenticationAuthorization.Application.csproj|e:\\authenticationauthorization\\authenticationauthorization.solution\\authenticationauthorization.application\\dtos\\menupermissiondtos\\updatemenupermissiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D88976F-94E7-4811-8FD4-95ADD5CC1AB8}|AuthenticationAuthorization.Application\\AuthenticationAuthorization.Application.csproj|solutionrelative:authenticationauthorization.application\\dtos\\menupermissiondtos\\updatemenupermissiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D88976F-94E7-4811-8FD4-95ADD5CC1AB8}|AuthenticationAuthorization.Application\\AuthenticationAuthorization.Application.csproj|e:\\authenticationauthorization\\authenticationauthorization.solution\\authenticationauthorization.application\\dtos\\menupermissiondtos\\getmenupermissiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D88976F-94E7-4811-8FD4-95ADD5CC1AB8}|AuthenticationAuthorization.Application\\AuthenticationAuthorization.Application.csproj|solutionrelative:authenticationauthorization.application\\dtos\\menupermissiondtos\\getmenupermissiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D88976F-94E7-4811-8FD4-95ADD5CC1AB8}|AuthenticationAuthorization.Application\\AuthenticationAuthorization.Application.csproj|e:\\authenticationauthorization\\authenticationauthorization.solution\\authenticationauthorization.application\\dtos\\menupermissiondtos\\addmenupermissiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D88976F-94E7-4811-8FD4-95ADD5CC1AB8}|AuthenticationAuthorization.Application\\AuthenticationAuthorization.Application.csproj|solutionrelative:authenticationauthorization.application\\dtos\\menupermissiondtos\\addmenupermissiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D88976F-94E7-4811-8FD4-95ADD5CC1AB8}|AuthenticationAuthorization.Application\\AuthenticationAuthorization.Application.csproj|e:\\authenticationauthorization\\authenticationauthorization.solution\\authenticationauthorization.application\\dtos\\employeedtos\\getemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D88976F-94E7-4811-8FD4-95ADD5CC1AB8}|AuthenticationAuthorization.Application\\AuthenticationAuthorization.Application.csproj|solutionrelative:authenticationauthorization.application\\dtos\\employeedtos\\getemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D88976F-94E7-4811-8FD4-95ADD5CC1AB8}|AuthenticationAuthorization.Application\\AuthenticationAuthorization.Application.csproj|e:\\authenticationauthorization\\authenticationauthorization.solution\\authenticationauthorization.application\\dtos\\employeedtos\\addemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D88976F-94E7-4811-8FD4-95ADD5CC1AB8}|AuthenticationAuthorization.Application\\AuthenticationAuthorization.Application.csproj|solutionrelative:authenticationauthorization.application\\dtos\\employeedtos\\addemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D88976F-94E7-4811-8FD4-95ADD5CC1AB8}|AuthenticationAuthorization.Application\\AuthenticationAuthorization.Application.csproj|e:\\authenticationauthorization\\authenticationauthorization.solution\\authenticationauthorization.application\\command\\roles\\updaterolecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D88976F-94E7-4811-8FD4-95ADD5CC1AB8}|AuthenticationAuthorization.Application\\AuthenticationAuthorization.Application.csproj|solutionrelative:authenticationauthorization.application\\command\\roles\\updaterolecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D88976F-94E7-4811-8FD4-95ADD5CC1AB8}|AuthenticationAuthorization.Application\\AuthenticationAuthorization.Application.csproj|e:\\authenticationauthorization\\authenticationauthorization.solution\\authenticationauthorization.application\\command\\roles\\addrolecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D88976F-94E7-4811-8FD4-95ADD5CC1AB8}|AuthenticationAuthorization.Application\\AuthenticationAuthorization.Application.csproj|solutionrelative:authenticationauthorization.application\\command\\roles\\addrolecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D88976F-94E7-4811-8FD4-95ADD5CC1AB8}|AuthenticationAuthorization.Application\\AuthenticationAuthorization.Application.csproj|e:\\authenticationauthorization\\authenticationauthorization.solution\\authenticationauthorization.application\\command\\users\\updateusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D88976F-94E7-4811-8FD4-95ADD5CC1AB8}|AuthenticationAuthorization.Application\\AuthenticationAuthorization.Application.csproj|solutionrelative:authenticationauthorization.application\\command\\users\\updateusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D88976F-94E7-4811-8FD4-95ADD5CC1AB8}|AuthenticationAuthorization.Application\\AuthenticationAuthorization.Application.csproj|e:\\authenticationauthorization\\authenticationauthorization.solution\\authenticationauthorization.application\\command\\userroles\\updateuserrolecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D88976F-94E7-4811-8FD4-95ADD5CC1AB8}|AuthenticationAuthorization.Application\\AuthenticationAuthorization.Application.csproj|solutionrelative:authenticationauthorization.application\\command\\userroles\\updateuserrolecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D88976F-94E7-4811-8FD4-95ADD5CC1AB8}|AuthenticationAuthorization.Application\\AuthenticationAuthorization.Application.csproj|e:\\authenticationauthorization\\authenticationauthorization.solution\\authenticationauthorization.application\\command\\staticdatatypes\\updategetstaticdatatypecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D88976F-94E7-4811-8FD4-95ADD5CC1AB8}|AuthenticationAuthorization.Application\\AuthenticationAuthorization.Application.csproj|solutionrelative:authenticationauthorization.application\\command\\staticdatatypes\\updategetstaticdatatypecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D88976F-94E7-4811-8FD4-95ADD5CC1AB8}|AuthenticationAuthorization.Application\\AuthenticationAuthorization.Application.csproj|e:\\authenticationauthorization\\authenticationauthorization.solution\\authenticationauthorization.application\\command\\staticdatatypes\\deletestaticdatatypecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D88976F-94E7-4811-8FD4-95ADD5CC1AB8}|AuthenticationAuthorization.Application\\AuthenticationAuthorization.Application.csproj|solutionrelative:authenticationauthorization.application\\command\\staticdatatypes\\deletestaticdatatypecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D88976F-94E7-4811-8FD4-95ADD5CC1AB8}|AuthenticationAuthorization.Application\\AuthenticationAuthorization.Application.csproj|e:\\authenticationauthorization\\authenticationauthorization.solution\\authenticationauthorization.application\\command\\staticdatatypes\\addstaticdatatypecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D88976F-94E7-4811-8FD4-95ADD5CC1AB8}|AuthenticationAuthorization.Application\\AuthenticationAuthorization.Application.csproj|solutionrelative:authenticationauthorization.application\\command\\staticdatatypes\\addstaticdatatypecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D88976F-94E7-4811-8FD4-95ADD5CC1AB8}|AuthenticationAuthorization.Application\\AuthenticationAuthorization.Application.csproj|e:\\authenticationauthorization\\authenticationauthorization.solution\\authenticationauthorization.application\\command\\staticdatadetails\\updatestaticdatadetailcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D88976F-94E7-4811-8FD4-95ADD5CC1AB8}|AuthenticationAuthorization.Application\\AuthenticationAuthorization.Application.csproj|solutionrelative:authenticationauthorization.application\\command\\staticdatadetails\\updatestaticdatadetailcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D88976F-94E7-4811-8FD4-95ADD5CC1AB8}|AuthenticationAuthorization.Application\\AuthenticationAuthorization.Application.csproj|e:\\authenticationauthorization\\authenticationauthorization.solution\\authenticationauthorization.application\\command\\staticdatadetails\\deletestaticdatadetailcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D88976F-94E7-4811-8FD4-95ADD5CC1AB8}|AuthenticationAuthorization.Application\\AuthenticationAuthorization.Application.csproj|solutionrelative:authenticationauthorization.application\\command\\staticdatadetails\\deletestaticdatadetailcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D88976F-94E7-4811-8FD4-95ADD5CC1AB8}|AuthenticationAuthorization.Application\\AuthenticationAuthorization.Application.csproj|e:\\authenticationauthorization\\authenticationauthorization.solution\\authenticationauthorization.application\\command\\staticdatadetails\\addstaticdatadetailcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D88976F-94E7-4811-8FD4-95ADD5CC1AB8}|AuthenticationAuthorization.Application\\AuthenticationAuthorization.Application.csproj|solutionrelative:authenticationauthorization.application\\command\\staticdatadetails\\addstaticdatadetailcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D88976F-94E7-4811-8FD4-95ADD5CC1AB8}|AuthenticationAuthorization.Application\\AuthenticationAuthorization.Application.csproj|e:\\authenticationauthorization\\authenticationauthorization.solution\\authenticationauthorization.application\\command\\rolemenupermissions\\updaterolemenupermissioncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D88976F-94E7-4811-8FD4-95ADD5CC1AB8}|AuthenticationAuthorization.Application\\AuthenticationAuthorization.Application.csproj|solutionrelative:authenticationauthorization.application\\command\\rolemenupermissions\\updaterolemenupermissioncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D88976F-94E7-4811-8FD4-95ADD5CC1AB8}|AuthenticationAuthorization.Application\\AuthenticationAuthorization.Application.csproj|e:\\authenticationauthorization\\authenticationauthorization.solution\\authenticationauthorization.application\\command\\rolemenupermissions\\addrolemenupermissioncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D88976F-94E7-4811-8FD4-95ADD5CC1AB8}|AuthenticationAuthorization.Application\\AuthenticationAuthorization.Application.csproj|solutionrelative:authenticationauthorization.application\\command\\rolemenupermissions\\addrolemenupermissioncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D88976F-94E7-4811-8FD4-95ADD5CC1AB8}|AuthenticationAuthorization.Application\\AuthenticationAuthorization.Application.csproj|e:\\authenticationauthorization\\authenticationauthorization.solution\\authenticationauthorization.application\\command\\permissions\\updatepermissioncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D88976F-94E7-4811-8FD4-95ADD5CC1AB8}|AuthenticationAuthorization.Application\\AuthenticationAuthorization.Application.csproj|solutionrelative:authenticationauthorization.application\\command\\permissions\\updatepermissioncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D88976F-94E7-4811-8FD4-95ADD5CC1AB8}|AuthenticationAuthorization.Application\\AuthenticationAuthorization.Application.csproj|e:\\authenticationauthorization\\authenticationauthorization.solution\\authenticationauthorization.application\\command\\permissions\\addpermissioncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D88976F-94E7-4811-8FD4-95ADD5CC1AB8}|AuthenticationAuthorization.Application\\AuthenticationAuthorization.Application.csproj|solutionrelative:authenticationauthorization.application\\command\\permissions\\addpermissioncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D88976F-94E7-4811-8FD4-95ADD5CC1AB8}|AuthenticationAuthorization.Application\\AuthenticationAuthorization.Application.csproj|e:\\authenticationauthorization\\authenticationauthorization.solution\\authenticationauthorization.application\\command\\menupermissions\\updatemenupermissioncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D88976F-94E7-4811-8FD4-95ADD5CC1AB8}|AuthenticationAuthorization.Application\\AuthenticationAuthorization.Application.csproj|solutionrelative:authenticationauthorization.application\\command\\menupermissions\\updatemenupermissioncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D88976F-94E7-4811-8FD4-95ADD5CC1AB8}|AuthenticationAuthorization.Application\\AuthenticationAuthorization.Application.csproj|e:\\authenticationauthorization\\authenticationauthorization.solution\\authenticationauthorization.application\\command\\menupermissions\\addmenupermissioncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D88976F-94E7-4811-8FD4-95ADD5CC1AB8}|AuthenticationAuthorization.Application\\AuthenticationAuthorization.Application.csproj|solutionrelative:authenticationauthorization.application\\command\\menupermissions\\addmenupermissioncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D88976F-94E7-4811-8FD4-95ADD5CC1AB8}|AuthenticationAuthorization.Application\\AuthenticationAuthorization.Application.csproj|e:\\authenticationauthorization\\authenticationauthorization.solution\\authenticationauthorization.application\\command\\employees\\updateemployeecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D88976F-94E7-4811-8FD4-95ADD5CC1AB8}|AuthenticationAuthorization.Application\\AuthenticationAuthorization.Application.csproj|solutionrelative:authenticationauthorization.application\\command\\employees\\updateemployeecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D88976F-94E7-4811-8FD4-95ADD5CC1AB8}|AuthenticationAuthorization.Application\\AuthenticationAuthorization.Application.csproj|e:\\authenticationauthorization\\authenticationauthorization.solution\\authenticationauthorization.application\\command\\employees\\deleteemployeecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D88976F-94E7-4811-8FD4-95ADD5CC1AB8}|AuthenticationAuthorization.Application\\AuthenticationAuthorization.Application.csproj|solutionrelative:authenticationauthorization.application\\command\\employees\\deleteemployeecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D88976F-94E7-4811-8FD4-95ADD5CC1AB8}|AuthenticationAuthorization.Application\\AuthenticationAuthorization.Application.csproj|e:\\authenticationauthorization\\authenticationauthorization.solution\\authenticationauthorization.application\\command\\employees\\addemployeecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D88976F-94E7-4811-8FD4-95ADD5CC1AB8}|AuthenticationAuthorization.Application\\AuthenticationAuthorization.Application.csproj|solutionrelative:authenticationauthorization.application\\command\\employees\\addemployeecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D88976F-94E7-4811-8FD4-95ADD5CC1AB8}|AuthenticationAuthorization.Application\\AuthenticationAuthorization.Application.csproj|e:\\authenticationauthorization\\authenticationauthorization.solution\\authenticationauthorization.application\\command\\employees\\addemployeebulkcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D88976F-94E7-4811-8FD4-95ADD5CC1AB8}|AuthenticationAuthorization.Application\\AuthenticationAuthorization.Application.csproj|solutionrelative:authenticationauthorization.application\\command\\employees\\addemployeebulkcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D88976F-94E7-4811-8FD4-95ADD5CC1AB8}|AuthenticationAuthorization.Application\\AuthenticationAuthorization.Application.csproj|e:\\authenticationauthorization\\authenticationauthorization.solution\\authenticationauthorization.application\\command\\departments\\updatedepartmentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D88976F-94E7-4811-8FD4-95ADD5CC1AB8}|AuthenticationAuthorization.Application\\AuthenticationAuthorization.Application.csproj|solutionrelative:authenticationauthorization.application\\command\\departments\\updatedepartmentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D88976F-94E7-4811-8FD4-95ADD5CC1AB8}|AuthenticationAuthorization.Application\\AuthenticationAuthorization.Application.csproj|e:\\authenticationauthorization\\authenticationauthorization.solution\\authenticationauthorization.application\\command\\departments\\deletedepartmentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D88976F-94E7-4811-8FD4-95ADD5CC1AB8}|AuthenticationAuthorization.Application\\AuthenticationAuthorization.Application.csproj|solutionrelative:authenticationauthorization.application\\command\\departments\\deletedepartmentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D88976F-94E7-4811-8FD4-95ADD5CC1AB8}|AuthenticationAuthorization.Application\\AuthenticationAuthorization.Application.csproj|e:\\authenticationauthorization\\authenticationauthorization.solution\\authenticationauthorization.application\\command\\departments\\adddepartmentscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D88976F-94E7-4811-8FD4-95ADD5CC1AB8}|AuthenticationAuthorization.Application\\AuthenticationAuthorization.Application.csproj|solutionrelative:authenticationauthorization.application\\command\\departments\\adddepartmentscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D88976F-94E7-4811-8FD4-95ADD5CC1AB8}|AuthenticationAuthorization.Application\\AuthenticationAuthorization.Application.csproj|e:\\authenticationauthorization\\authenticationauthorization.solution\\authenticationauthorization.application\\command\\companies\\updatecompanycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D88976F-94E7-4811-8FD4-95ADD5CC1AB8}|AuthenticationAuthorization.Application\\AuthenticationAuthorization.Application.csproj|solutionrelative:authenticationauthorization.application\\command\\companies\\updatecompanycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D88976F-94E7-4811-8FD4-95ADD5CC1AB8}|AuthenticationAuthorization.Application\\AuthenticationAuthorization.Application.csproj|e:\\authenticationauthorization\\authenticationauthorization.solution\\authenticationauthorization.application\\command\\companies\\addcompanycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D88976F-94E7-4811-8FD4-95ADD5CC1AB8}|AuthenticationAuthorization.Application\\AuthenticationAuthorization.Application.csproj|solutionrelative:authenticationauthorization.application\\command\\companies\\addcompanycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D88976F-94E7-4811-8FD4-95ADD5CC1AB8}|AuthenticationAuthorization.Application\\AuthenticationAuthorization.Application.csproj|e:\\authenticationauthorization\\authenticationauthorization.solution\\authenticationauthorization.application\\command\\branches\\updatebranchescommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D88976F-94E7-4811-8FD4-95ADD5CC1AB8}|AuthenticationAuthorization.Application\\AuthenticationAuthorization.Application.csproj|solutionrelative:authenticationauthorization.application\\command\\branches\\updatebranchescommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D88976F-94E7-4811-8FD4-95ADD5CC1AB8}|AuthenticationAuthorization.Application\\AuthenticationAuthorization.Application.csproj|e:\\authenticationauthorization\\authenticationauthorization.solution\\authenticationauthorization.application\\command\\branches\\deletebranchcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D88976F-94E7-4811-8FD4-95ADD5CC1AB8}|AuthenticationAuthorization.Application\\AuthenticationAuthorization.Application.csproj|solutionrelative:authenticationauthorization.application\\command\\branches\\deletebranchcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D88976F-94E7-4811-8FD4-95ADD5CC1AB8}|AuthenticationAuthorization.Application\\AuthenticationAuthorization.Application.csproj|e:\\authenticationauthorization\\authenticationauthorization.solution\\authenticationauthorization.application\\command\\branches\\addbranchescommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D88976F-94E7-4811-8FD4-95ADD5CC1AB8}|AuthenticationAuthorization.Application\\AuthenticationAuthorization.Application.csproj|solutionrelative:authenticationauthorization.application\\command\\branches\\addbranchescommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{019A26C3-BEE7-44E1-BE84-40C4E63E5682}|AuthenticationAuthorization.Infrastructure\\AuthenticationAuthorization.Infrastructure.csproj|e:\\authenticationauthorization\\authenticationauthorization.solution\\authenticationauthorization.infrastructure\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{019A26C3-BEE7-44E1-BE84-40C4E63E5682}|AuthenticationAuthorization.Infrastructure\\AuthenticationAuthorization.Infrastructure.csproj|solutionrelative:authenticationauthorization.infrastructure\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{019A26C3-BEE7-44E1-BE84-40C4E63E5682}|AuthenticationAuthorization.Infrastructure\\AuthenticationAuthorization.Infrastructure.csproj|e:\\authenticationauthorization\\authenticationauthorization.solution\\authenticationauthorization.infrastructure\\repository\\usertokenrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{019A26C3-BEE7-44E1-BE84-40C4E63E5682}|AuthenticationAuthorization.Infrastructure\\AuthenticationAuthorization.Infrastructure.csproj|solutionrelative:authenticationauthorization.infrastructure\\repository\\usertokenrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{019A26C3-BEE7-44E1-BE84-40C4E63E5682}|AuthenticationAuthorization.Infrastructure\\AuthenticationAuthorization.Infrastructure.csproj|e:\\authenticationauthorization\\authenticationauthorization.solution\\authenticationauthorization.infrastructure\\repository\\userrolerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{019A26C3-BEE7-44E1-BE84-40C4E63E5682}|AuthenticationAuthorization.Infrastructure\\AuthenticationAuthorization.Infrastructure.csproj|solutionrelative:authenticationauthorization.infrastructure\\repository\\userrolerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{019A26C3-BEE7-44E1-BE84-40C4E63E5682}|AuthenticationAuthorization.Infrastructure\\AuthenticationAuthorization.Infrastructure.csproj|e:\\authenticationauthorization\\authenticationauthorization.solution\\authenticationauthorization.infrastructure\\repository\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{019A26C3-BEE7-44E1-BE84-40C4E63E5682}|AuthenticationAuthorization.Infrastructure\\AuthenticationAuthorization.Infrastructure.csproj|solutionrelative:authenticationauthorization.infrastructure\\repository\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{019A26C3-BEE7-44E1-BE84-40C4E63E5682}|AuthenticationAuthorization.Infrastructure\\AuthenticationAuthorization.Infrastructure.csproj|e:\\authenticationauthorization\\authenticationauthorization.solution\\authenticationauthorization.infrastructure\\repository\\staticdatatyperepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{019A26C3-BEE7-44E1-BE84-40C4E63E5682}|AuthenticationAuthorization.Infrastructure\\AuthenticationAuthorization.Infrastructure.csproj|solutionrelative:authenticationauthorization.infrastructure\\repository\\staticdatatyperepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{019A26C3-BEE7-44E1-BE84-40C4E63E5682}|AuthenticationAuthorization.Infrastructure\\AuthenticationAuthorization.Infrastructure.csproj|e:\\authenticationauthorization\\authenticationauthorization.solution\\authenticationauthorization.infrastructure\\repository\\staticdatadetailrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{019A26C3-BEE7-44E1-BE84-40C4E63E5682}|AuthenticationAuthorization.Infrastructure\\AuthenticationAuthorization.Infrastructure.csproj|solutionrelative:authenticationauthorization.infrastructure\\repository\\staticdatadetailrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{019A26C3-BEE7-44E1-BE84-40C4E63E5682}|AuthenticationAuthorization.Infrastructure\\AuthenticationAuthorization.Infrastructure.csproj|e:\\authenticationauthorization\\authenticationauthorization.solution\\authenticationauthorization.infrastructure\\repository\\rolerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{019A26C3-BEE7-44E1-BE84-40C4E63E5682}|AuthenticationAuthorization.Infrastructure\\AuthenticationAuthorization.Infrastructure.csproj|solutionrelative:authenticationauthorization.infrastructure\\repository\\rolerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{019A26C3-BEE7-44E1-BE84-40C4E63E5682}|AuthenticationAuthorization.Infrastructure\\AuthenticationAuthorization.Infrastructure.csproj|e:\\authenticationauthorization\\authenticationauthorization.solution\\authenticationauthorization.infrastructure\\repository\\rolemenupermissionrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{019A26C3-BEE7-44E1-BE84-40C4E63E5682}|AuthenticationAuthorization.Infrastructure\\AuthenticationAuthorization.Infrastructure.csproj|solutionrelative:authenticationauthorization.infrastructure\\repository\\rolemenupermissionrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{019A26C3-BEE7-44E1-BE84-40C4E63E5682}|AuthenticationAuthorization.Infrastructure\\AuthenticationAuthorization.Infrastructure.csproj|e:\\authenticationauthorization\\authenticationauthorization.solution\\authenticationauthorization.infrastructure\\repository\\permissionrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{019A26C3-BEE7-44E1-BE84-40C4E63E5682}|AuthenticationAuthorization.Infrastructure\\AuthenticationAuthorization.Infrastructure.csproj|solutionrelative:authenticationauthorization.infrastructure\\repository\\permissionrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{019A26C3-BEE7-44E1-BE84-40C4E63E5682}|AuthenticationAuthorization.Infrastructure\\AuthenticationAuthorization.Infrastructure.csproj|e:\\authenticationauthorization\\authenticationauthorization.solution\\authenticationauthorization.infrastructure\\repository\\menurepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{019A26C3-BEE7-44E1-BE84-40C4E63E5682}|AuthenticationAuthorization.Infrastructure\\AuthenticationAuthorization.Infrastructure.csproj|solutionrelative:authenticationauthorization.infrastructure\\repository\\menurepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{019A26C3-BEE7-44E1-BE84-40C4E63E5682}|AuthenticationAuthorization.Infrastructure\\AuthenticationAuthorization.Infrastructure.csproj|e:\\authenticationauthorization\\authenticationauthorization.solution\\authenticationauthorization.infrastructure\\repository\\menupermissionrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{019A26C3-BEE7-44E1-BE84-40C4E63E5682}|AuthenticationAuthorization.Infrastructure\\AuthenticationAuthorization.Infrastructure.csproj|solutionrelative:authenticationauthorization.infrastructure\\repository\\menupermissionrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{019A26C3-BEE7-44E1-BE84-40C4E63E5682}|AuthenticationAuthorization.Infrastructure\\AuthenticationAuthorization.Infrastructure.csproj|e:\\authenticationauthorization\\authenticationauthorization.solution\\authenticationauthorization.infrastructure\\repository\\genericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{019A26C3-BEE7-44E1-BE84-40C4E63E5682}|AuthenticationAuthorization.Infrastructure\\AuthenticationAuthorization.Infrastructure.csproj|solutionrelative:authenticationauthorization.infrastructure\\repository\\genericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{019A26C3-BEE7-44E1-BE84-40C4E63E5682}|AuthenticationAuthorization.Infrastructure\\AuthenticationAuthorization.Infrastructure.csproj|e:\\authenticationauthorization\\authenticationauthorization.solution\\authenticationauthorization.infrastructure\\repository\\employeerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{019A26C3-BEE7-44E1-BE84-40C4E63E5682}|AuthenticationAuthorization.Infrastructure\\AuthenticationAuthorization.Infrastructure.csproj|solutionrelative:authenticationauthorization.infrastructure\\repository\\employeerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{019A26C3-BEE7-44E1-BE84-40C4E63E5682}|AuthenticationAuthorization.Infrastructure\\AuthenticationAuthorization.Infrastructure.csproj|e:\\authenticationauthorization\\authenticationauthorization.solution\\authenticationauthorization.infrastructure\\repository\\departmentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{019A26C3-BEE7-44E1-BE84-40C4E63E5682}|AuthenticationAuthorization.Infrastructure\\AuthenticationAuthorization.Infrastructure.csproj|solutionrelative:authenticationauthorization.infrastructure\\repository\\departmentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{019A26C3-BEE7-44E1-BE84-40C4E63E5682}|AuthenticationAuthorization.Infrastructure\\AuthenticationAuthorization.Infrastructure.csproj|e:\\authenticationauthorization\\authenticationauthorization.solution\\authenticationauthorization.infrastructure\\repository\\companyrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{019A26C3-BEE7-44E1-BE84-40C4E63E5682}|AuthenticationAuthorization.Infrastructure\\AuthenticationAuthorization.Infrastructure.csproj|solutionrelative:authenticationauthorization.infrastructure\\repository\\companyrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{019A26C3-BEE7-44E1-BE84-40C4E63E5682}|AuthenticationAuthorization.Infrastructure\\AuthenticationAuthorization.Infrastructure.csproj|e:\\authenticationauthorization\\authenticationauthorization.solution\\authenticationauthorization.infrastructure\\repository\\branchesrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{019A26C3-BEE7-44E1-BE84-40C4E63E5682}|AuthenticationAuthorization.Infrastructure\\AuthenticationAuthorization.Infrastructure.csproj|solutionrelative:authenticationauthorization.infrastructure\\repository\\branchesrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D88976F-94E7-4811-8FD4-95ADD5CC1AB8}|AuthenticationAuthorization.Application\\AuthenticationAuthorization.Application.csproj|e:\\authenticationauthorization\\authenticationauthorization.solution\\authenticationauthorization.application\\command\\auth\\logincommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D88976F-94E7-4811-8FD4-95ADD5CC1AB8}|AuthenticationAuthorization.Application\\AuthenticationAuthorization.Application.csproj|solutionrelative:authenticationauthorization.application\\command\\auth\\logincommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81247EFD-3E66-4AEE-92C2-3CDCBF39A11F}|AuthenticationAuthorization.Domain\\AuthenticationAuthorization.Domain.csproj|e:\\authenticationauthorization\\authenticationauthorization.solution\\authenticationauthorization.domain\\interfaces\\igenericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81247EFD-3E66-4AEE-92C2-3CDCBF39A11F}|AuthenticationAuthorization.Domain\\AuthenticationAuthorization.Domain.csproj|solutionrelative:authenticationauthorization.domain\\interfaces\\igenericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81247EFD-3E66-4AEE-92C2-3CDCBF39A11F}|AuthenticationAuthorization.Domain\\AuthenticationAuthorization.Domain.csproj|e:\\authenticationauthorization\\authenticationauthorization.solution\\authenticationauthorization.domain\\interfaces\\iusertoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81247EFD-3E66-4AEE-92C2-3CDCBF39A11F}|AuthenticationAuthorization.Domain\\AuthenticationAuthorization.Domain.csproj|solutionrelative:authenticationauthorization.domain\\interfaces\\iusertoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81247EFD-3E66-4AEE-92C2-3CDCBF39A11F}|AuthenticationAuthorization.Domain\\AuthenticationAuthorization.Domain.csproj|e:\\authenticationauthorization\\authenticationauthorization.solution\\authenticationauthorization.domain\\interfaces\\iuserrolerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81247EFD-3E66-4AEE-92C2-3CDCBF39A11F}|AuthenticationAuthorization.Domain\\AuthenticationAuthorization.Domain.csproj|solutionrelative:authenticationauthorization.domain\\interfaces\\iuserrolerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81247EFD-3E66-4AEE-92C2-3CDCBF39A11F}|AuthenticationAuthorization.Domain\\AuthenticationAuthorization.Domain.csproj|e:\\authenticationauthorization\\authenticationauthorization.solution\\authenticationauthorization.domain\\interfaces\\iuserrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81247EFD-3E66-4AEE-92C2-3CDCBF39A11F}|AuthenticationAuthorization.Domain\\AuthenticationAuthorization.Domain.csproj|solutionrelative:authenticationauthorization.domain\\interfaces\\iuserrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81247EFD-3E66-4AEE-92C2-3CDCBF39A11F}|AuthenticationAuthorization.Domain\\AuthenticationAuthorization.Domain.csproj|e:\\authenticationauthorization\\authenticationauthorization.solution\\authenticationauthorization.domain\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81247EFD-3E66-4AEE-92C2-3CDCBF39A11F}|AuthenticationAuthorization.Domain\\AuthenticationAuthorization.Domain.csproj|solutionrelative:authenticationauthorization.domain\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81247EFD-3E66-4AEE-92C2-3CDCBF39A11F}|AuthenticationAuthorization.Domain\\AuthenticationAuthorization.Domain.csproj|e:\\authenticationauthorization\\authenticationauthorization.solution\\authenticationauthorization.domain\\interfaces\\istaticdatatyperepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81247EFD-3E66-4AEE-92C2-3CDCBF39A11F}|AuthenticationAuthorization.Domain\\AuthenticationAuthorization.Domain.csproj|solutionrelative:authenticationauthorization.domain\\interfaces\\istaticdatatyperepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81247EFD-3E66-4AEE-92C2-3CDCBF39A11F}|AuthenticationAuthorization.Domain\\AuthenticationAuthorization.Domain.csproj|e:\\authenticationauthorization\\authenticationauthorization.solution\\authenticationauthorization.domain\\interfaces\\istaticdatadetailrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81247EFD-3E66-4AEE-92C2-3CDCBF39A11F}|AuthenticationAuthorization.Domain\\AuthenticationAuthorization.Domain.csproj|solutionrelative:authenticationauthorization.domain\\interfaces\\istaticdatadetailrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81247EFD-3E66-4AEE-92C2-3CDCBF39A11F}|AuthenticationAuthorization.Domain\\AuthenticationAuthorization.Domain.csproj|e:\\authenticationauthorization\\authenticationauthorization.solution\\authenticationauthorization.domain\\interfaces\\irolerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81247EFD-3E66-4AEE-92C2-3CDCBF39A11F}|AuthenticationAuthorization.Domain\\AuthenticationAuthorization.Domain.csproj|solutionrelative:authenticationauthorization.domain\\interfaces\\irolerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81247EFD-3E66-4AEE-92C2-3CDCBF39A11F}|AuthenticationAuthorization.Domain\\AuthenticationAuthorization.Domain.csproj|e:\\authenticationauthorization\\authenticationauthorization.solution\\authenticationauthorization.domain\\interfaces\\irolemenupermissionrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81247EFD-3E66-4AEE-92C2-3CDCBF39A11F}|AuthenticationAuthorization.Domain\\AuthenticationAuthorization.Domain.csproj|solutionrelative:authenticationauthorization.domain\\interfaces\\irolemenupermissionrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81247EFD-3E66-4AEE-92C2-3CDCBF39A11F}|AuthenticationAuthorization.Domain\\AuthenticationAuthorization.Domain.csproj|e:\\authenticationauthorization\\authenticationauthorization.solution\\authenticationauthorization.domain\\interfaces\\ipermissionrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81247EFD-3E66-4AEE-92C2-3CDCBF39A11F}|AuthenticationAuthorization.Domain\\AuthenticationAuthorization.Domain.csproj|solutionrelative:authenticationauthorization.domain\\interfaces\\ipermissionrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81247EFD-3E66-4AEE-92C2-3CDCBF39A11F}|AuthenticationAuthorization.Domain\\AuthenticationAuthorization.Domain.csproj|e:\\authenticationauthorization\\authenticationauthorization.solution\\authenticationauthorization.domain\\interfaces\\imenurepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81247EFD-3E66-4AEE-92C2-3CDCBF39A11F}|AuthenticationAuthorization.Domain\\AuthenticationAuthorization.Domain.csproj|solutionrelative:authenticationauthorization.domain\\interfaces\\imenurepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81247EFD-3E66-4AEE-92C2-3CDCBF39A11F}|AuthenticationAuthorization.Domain\\AuthenticationAuthorization.Domain.csproj|e:\\authenticationauthorization\\authenticationauthorization.solution\\authenticationauthorization.domain\\interfaces\\imenupermissionrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81247EFD-3E66-4AEE-92C2-3CDCBF39A11F}|AuthenticationAuthorization.Domain\\AuthenticationAuthorization.Domain.csproj|solutionrelative:authenticationauthorization.domain\\interfaces\\imenupermissionrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81247EFD-3E66-4AEE-92C2-3CDCBF39A11F}|AuthenticationAuthorization.Domain\\AuthenticationAuthorization.Domain.csproj|e:\\authenticationauthorization\\authenticationauthorization.solution\\authenticationauthorization.domain\\interfaces\\iemployeerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81247EFD-3E66-4AEE-92C2-3CDCBF39A11F}|AuthenticationAuthorization.Domain\\AuthenticationAuthorization.Domain.csproj|solutionrelative:authenticationauthorization.domain\\interfaces\\iemployeerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81247EFD-3E66-4AEE-92C2-3CDCBF39A11F}|AuthenticationAuthorization.Domain\\AuthenticationAuthorization.Domain.csproj|e:\\authenticationauthorization\\authenticationauthorization.solution\\authenticationauthorization.domain\\interfaces\\idepartmentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81247EFD-3E66-4AEE-92C2-3CDCBF39A11F}|AuthenticationAuthorization.Domain\\AuthenticationAuthorization.Domain.csproj|solutionrelative:authenticationauthorization.domain\\interfaces\\idepartmentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81247EFD-3E66-4AEE-92C2-3CDCBF39A11F}|AuthenticationAuthorization.Domain\\AuthenticationAuthorization.Domain.csproj|e:\\authenticationauthorization\\authenticationauthorization.solution\\authenticationauthorization.domain\\interfaces\\icompanyrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81247EFD-3E66-4AEE-92C2-3CDCBF39A11F}|AuthenticationAuthorization.Domain\\AuthenticationAuthorization.Domain.csproj|solutionrelative:authenticationauthorization.domain\\interfaces\\icompanyrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81247EFD-3E66-4AEE-92C2-3CDCBF39A11F}|AuthenticationAuthorization.Domain\\AuthenticationAuthorization.Domain.csproj|e:\\authenticationauthorization\\authenticationauthorization.solution\\authenticationauthorization.domain\\interfaces\\ibranchrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81247EFD-3E66-4AEE-92C2-3CDCBF39A11F}|AuthenticationAuthorization.Domain\\AuthenticationAuthorization.Domain.csproj|solutionrelative:authenticationauthorization.domain\\interfaces\\ibranchrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7A5DE1B-3E15-4B0A-BDF5-4038D3098552}|AuthenticationAuthorization.API\\AuthenticationAuthorization.API.csproj|e:\\authenticationauthorization\\authenticationauthorization.solution\\authenticationauthorization.api\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7A5DE1B-3E15-4B0A-BDF5-4038D3098552}|AuthenticationAuthorization.API\\AuthenticationAuthorization.API.csproj|solutionrelative:authenticationauthorization.api\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7A5DE1B-3E15-4B0A-BDF5-4038D3098552}|AuthenticationAuthorization.API\\AuthenticationAuthorization.API.csproj|e:\\authenticationauthorization\\authenticationauthorization.solution\\authenticationauthorization.api\\controllers\\staticdatatypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7A5DE1B-3E15-4B0A-BDF5-4038D3098552}|AuthenticationAuthorization.API\\AuthenticationAuthorization.API.csproj|solutionrelative:authenticationauthorization.api\\controllers\\staticdatatypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7A5DE1B-3E15-4B0A-BDF5-4038D3098552}|AuthenticationAuthorization.API\\AuthenticationAuthorization.API.csproj|e:\\authenticationauthorization\\authenticationauthorization.solution\\authenticationauthorization.api\\controllers\\rolemenupermissioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7A5DE1B-3E15-4B0A-BDF5-4038D3098552}|AuthenticationAuthorization.API\\AuthenticationAuthorization.API.csproj|solutionrelative:authenticationauthorization.api\\controllers\\rolemenupermissioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7A5DE1B-3E15-4B0A-BDF5-4038D3098552}|AuthenticationAuthorization.API\\AuthenticationAuthorization.API.csproj|e:\\authenticationauthorization\\authenticationauthorization.solution\\authenticationauthorization.api\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7A5DE1B-3E15-4B0A-BDF5-4038D3098552}|AuthenticationAuthorization.API\\AuthenticationAuthorization.API.csproj|solutionrelative:authenticationauthorization.api\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7A5DE1B-3E15-4B0A-BDF5-4038D3098552}|AuthenticationAuthorization.API\\AuthenticationAuthorization.API.csproj|e:\\authenticationauthorization\\authenticationauthorization.solution\\authenticationauthorization.api\\controllers\\permissioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7A5DE1B-3E15-4B0A-BDF5-4038D3098552}|AuthenticationAuthorization.API\\AuthenticationAuthorization.API.csproj|solutionrelative:authenticationauthorization.api\\controllers\\permissioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7A5DE1B-3E15-4B0A-BDF5-4038D3098552}|AuthenticationAuthorization.API\\AuthenticationAuthorization.API.csproj|e:\\authenticationauthorization\\authenticationauthorization.solution\\authenticationauthorization.api\\controllers\\menupermissioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7A5DE1B-3E15-4B0A-BDF5-4038D3098552}|AuthenticationAuthorization.API\\AuthenticationAuthorization.API.csproj|solutionrelative:authenticationauthorization.api\\controllers\\menupermissioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7A5DE1B-3E15-4B0A-BDF5-4038D3098552}|AuthenticationAuthorization.API\\AuthenticationAuthorization.API.csproj|e:\\authenticationauthorization\\authenticationauthorization.solution\\authenticationauthorization.api\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7A5DE1B-3E15-4B0A-BDF5-4038D3098552}|AuthenticationAuthorization.API\\AuthenticationAuthorization.API.csproj|solutionrelative:authenticationauthorization.api\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7A5DE1B-3E15-4B0A-BDF5-4038D3098552}|AuthenticationAuthorization.API\\AuthenticationAuthorization.API.csproj|e:\\authenticationauthorization\\authenticationauthorization.solution\\authenticationauthorization.api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7A5DE1B-3E15-4B0A-BDF5-4038D3098552}|AuthenticationAuthorization.API\\AuthenticationAuthorization.API.csproj|solutionrelative:authenticationauthorization.api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7A5DE1B-3E15-4B0A-BDF5-4038D3098552}|AuthenticationAuthorization.API\\AuthenticationAuthorization.API.csproj|e:\\authenticationauthorization\\authenticationauthorization.solution\\authenticationauthorization.api\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7A5DE1B-3E15-4B0A-BDF5-4038D3098552}|AuthenticationAuthorization.API\\AuthenticationAuthorization.API.csproj|solutionrelative:authenticationauthorization.api\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7A5DE1B-3E15-4B0A-BDF5-4038D3098552}|AuthenticationAuthorization.API\\AuthenticationAuthorization.API.csproj|e:\\authenticationauthorization\\authenticationauthorization.solution\\authenticationauthorization.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7A5DE1B-3E15-4B0A-BDF5-4038D3098552}|AuthenticationAuthorization.API\\AuthenticationAuthorization.API.csproj|solutionrelative:authenticationauthorization.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D88976F-94E7-4811-8FD4-95ADD5CC1AB8}|AuthenticationAuthorization.Application\\AuthenticationAuthorization.Application.csproj|e:\\authenticationauthorization\\authenticationauthorization.solution\\authenticationauthorization.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D88976F-94E7-4811-8FD4-95ADD5CC1AB8}|AuthenticationAuthorization.Application\\AuthenticationAuthorization.Application.csproj|solutionrelative:authenticationauthorization.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D88976F-94E7-4811-8FD4-95ADD5CC1AB8}|AuthenticationAuthorization.Application\\AuthenticationAuthorization.Application.csproj|e:\\authenticationauthorization\\authenticationauthorization.solution\\authenticationauthorization.application\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D88976F-94E7-4811-8FD4-95ADD5CC1AB8}|AuthenticationAuthorization.Application\\AuthenticationAuthorization.Application.csproj|solutionrelative:authenticationauthorization.application\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81247EFD-3E66-4AEE-92C2-3CDCBF39A11F}|AuthenticationAuthorization.Domain\\AuthenticationAuthorization.Domain.csproj|e:\\authenticationauthorization\\authenticationauthorization.solution\\authenticationauthorization.domain\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81247EFD-3E66-4AEE-92C2-3CDCBF39A11F}|AuthenticationAuthorization.Domain\\AuthenticationAuthorization.Domain.csproj|solutionrelative:authenticationauthorization.domain\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{019A26C3-BEE7-44E1-BE84-40C4E63E5682}|AuthenticationAuthorization.Infrastructure\\AuthenticationAuthorization.Infrastructure.csproj|e:\\authenticationauthorization\\authenticationauthorization.solution\\authenticationauthorization.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{019A26C3-BEE7-44E1-BE84-40C4E63E5682}|AuthenticationAuthorization.Infrastructure\\AuthenticationAuthorization.Infrastructure.csproj|solutionrelative:authenticationauthorization.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81247EFD-3E66-4AEE-92C2-3CDCBF39A11F}|AuthenticationAuthorization.Domain\\AuthenticationAuthorization.Domain.csproj|e:\\authenticationauthorization\\authenticationauthorization.solution\\authenticationauthorization.domain\\options\\jwtoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81247EFD-3E66-4AEE-92C2-3CDCBF39A11F}|AuthenticationAuthorization.Domain\\AuthenticationAuthorization.Domain.csproj|solutionrelative:authenticationauthorization.domain\\options\\jwtoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmailSettings.cs",
+              "DocumentMoniker": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Domain\\Options\\EmailSettings.cs",
+              "RelativeDocumentMoniker": "AuthenticationAuthorization.Domain\\Options\\EmailSettings.cs",
+              "ToolTip": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Domain\\Options\\EmailSettings.cs",
+              "RelativeToolTip": "AuthenticationAuthorization.Domain\\Options\\EmailSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T17:16:24.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.API\\appsettings.json",
+              "RelativeDocumentMoniker": "AuthenticationAuthorization.API\\appsettings.json",
+              "ToolTip": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.API\\appsettings.json",
+              "RelativeToolTip": "AuthenticationAuthorization.API\\appsettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAABgvRwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-10T17:14:40.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.API\\Program.cs",
+              "RelativeDocumentMoniker": "AuthenticationAuthorization.API\\Program.cs",
+              "ToolTip": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.API\\Program.cs",
+              "RelativeToolTip": "AuthenticationAuthorization.API\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAMCKPRYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T16:59:27.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GlobalExceptionMiddleware.cs",
+              "DocumentMoniker": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.API\\Middlewares\\GlobalExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "AuthenticationAuthorization.API\\Middlewares\\GlobalExceptionMiddleware.cs",
+              "ToolTip": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.API\\Middlewares\\GlobalExceptionMiddleware.cs",
+              "RelativeToolTip": "AuthenticationAuthorization.API\\Middlewares\\GlobalExceptionMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T16:59:22.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Authorize.cs",
+              "DocumentMoniker": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.API\\Middlewares\\Authorize.cs",
+              "RelativeDocumentMoniker": "AuthenticationAuthorization.API\\Middlewares\\Authorize.cs",
+              "ToolTip": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.API\\Middlewares\\Authorize.cs",
+              "RelativeToolTip": "AuthenticationAuthorization.API\\Middlewares\\Authorize.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T16:59:18.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoggerHelper.cs",
+              "DocumentMoniker": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.API\\Helpers\\LoggerHelper.cs",
+              "RelativeDocumentMoniker": "AuthenticationAuthorization.API\\Helpers\\LoggerHelper.cs",
+              "ToolTip": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.API\\Helpers\\LoggerHelper.cs",
+              "RelativeToolTip": "AuthenticationAuthorization.API\\Helpers\\LoggerHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T16:18:19.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetAllBranchesQuery.cs",
+              "DocumentMoniker": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Application\\Queries\\Branches\\GetAllBranchesQuery.cs",
+              "RelativeDocumentMoniker": "AuthenticationAuthorization.Application\\Queries\\Branches\\GetAllBranchesQuery.cs",
+              "ToolTip": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Application\\Queries\\Branches\\GetAllBranchesQuery.cs",
+              "RelativeToolTip": "AuthenticationAuthorization.Application\\Queries\\Branches\\GetAllBranchesQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T15:52:48.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddRoleMenuPermissionDTO.cs",
+              "DocumentMoniker": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Application\\DTOs\\RoleMenuPermissionDTOs\\AddRoleMenuPermissionDTO.cs",
+              "RelativeDocumentMoniker": "AuthenticationAuthorization.Application\\DTOs\\RoleMenuPermissionDTOs\\AddRoleMenuPermissionDTO.cs",
+              "ToolTip": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Application\\DTOs\\RoleMenuPermissionDTOs\\AddRoleMenuPermissionDTO.cs",
+              "RelativeToolTip": "AuthenticationAuthorization.Application\\DTOs\\RoleMenuPermissionDTOs\\AddRoleMenuPermissionDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T13:59:19.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GetRoleDTO.cs",
+              "DocumentMoniker": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Application\\DTOs\\RoleDTOs\\GetRoleDTO.cs",
+              "RelativeDocumentMoniker": "AuthenticationAuthorization.Application\\DTOs\\RoleDTOs\\GetRoleDTO.cs",
+              "ToolTip": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Application\\DTOs\\RoleDTOs\\GetRoleDTO.cs",
+              "RelativeToolTip": "AuthenticationAuthorization.Application\\DTOs\\RoleDTOs\\GetRoleDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T13:59:14.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddMenusCommand.cs",
+              "DocumentMoniker": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Application\\Command\\Menus\\AddMenusCommand.cs",
+              "RelativeDocumentMoniker": "AuthenticationAuthorization.Application\\Command\\Menus\\AddMenusCommand.cs",
+              "ToolTip": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Application\\Command\\Menus\\AddMenusCommand.cs",
+              "RelativeToolTip": "AuthenticationAuthorization.Application\\Command\\Menus\\AddMenusCommand.cs",
+              "ViewState": "AgIAABAAAAAAMjMzMzPzvyAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T13:55:16.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BranchController.cs",
+              "DocumentMoniker": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.API\\Controllers\\BranchController.cs",
+              "RelativeDocumentMoniker": "AuthenticationAuthorization.API\\Controllers\\BranchController.cs",
+              "ToolTip": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.API\\Controllers\\BranchController.cs",
+              "RelativeToolTip": "AuthenticationAuthorization.API\\Controllers\\BranchController.cs",
+              "ViewState": "AgIAABMAAAAAyszMzMwmwCcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T13:32:44.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddStaticDataDetailDTO.cs",
+              "DocumentMoniker": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Application\\DTOs\\StaticDataDetailDTOs\\AddStaticDataDetailDTO.cs",
+              "RelativeDocumentMoniker": "AuthenticationAuthorization.Application\\DTOs\\StaticDataDetailDTOs\\AddStaticDataDetailDTO.cs",
+              "ToolTip": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Application\\DTOs\\StaticDataDetailDTOs\\AddStaticDataDetailDTO.cs",
+              "RelativeToolTip": "AuthenticationAuthorization.Application\\DTOs\\StaticDataDetailDTOs\\AddStaticDataDetailDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T13:59:24.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetUserDTO.cs",
+              "DocumentMoniker": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Application\\DTOs\\UserDTOs\\GetUserDTO.cs",
+              "RelativeDocumentMoniker": "AuthenticationAuthorization.Application\\DTOs\\UserDTOs\\GetUserDTO.cs",
+              "ToolTip": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Application\\DTOs\\UserDTOs\\GetUserDTO.cs",
+              "RelativeToolTip": "AuthenticationAuthorization.Application\\DTOs\\UserDTOs\\GetUserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T13:59:28.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UpdatePermisionDTO.cs",
+              "DocumentMoniker": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Application\\DTOs\\PermissionDTOs\\UpdatePermisionDTO.cs",
+              "RelativeDocumentMoniker": "AuthenticationAuthorization.Application\\DTOs\\PermissionDTOs\\UpdatePermisionDTO.cs",
+              "ToolTip": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Application\\DTOs\\PermissionDTOs\\UpdatePermisionDTO.cs",
+              "RelativeToolTip": "AuthenticationAuthorization.Application\\DTOs\\PermissionDTOs\\UpdatePermisionDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T13:59:10.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GetPermissionDTO.cs",
+              "DocumentMoniker": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Application\\DTOs\\PermissionDTOs\\GetPermissionDTO.cs",
+              "RelativeDocumentMoniker": "AuthenticationAuthorization.Application\\DTOs\\PermissionDTOs\\GetPermissionDTO.cs",
+              "ToolTip": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Application\\DTOs\\PermissionDTOs\\GetPermissionDTO.cs",
+              "RelativeToolTip": "AuthenticationAuthorization.Application\\DTOs\\PermissionDTOs\\GetPermissionDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T13:59:04.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UpdateMenuPermissionDTO.cs",
+              "DocumentMoniker": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Application\\DTOs\\MenuPermissionDTOs\\UpdateMenuPermissionDTO.cs",
+              "RelativeDocumentMoniker": "AuthenticationAuthorization.Application\\DTOs\\MenuPermissionDTOs\\UpdateMenuPermissionDTO.cs",
+              "ToolTip": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Application\\DTOs\\MenuPermissionDTOs\\UpdateMenuPermissionDTO.cs",
+              "RelativeToolTip": "AuthenticationAuthorization.Application\\DTOs\\MenuPermissionDTOs\\UpdateMenuPermissionDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T13:58:52.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GetMenuPermissionDTO.cs",
+              "DocumentMoniker": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Application\\DTOs\\MenuPermissionDTOs\\GetMenuPermissionDTO.cs",
+              "RelativeDocumentMoniker": "AuthenticationAuthorization.Application\\DTOs\\MenuPermissionDTOs\\GetMenuPermissionDTO.cs",
+              "ToolTip": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Application\\DTOs\\MenuPermissionDTOs\\GetMenuPermissionDTO.cs",
+              "RelativeToolTip": "AuthenticationAuthorization.Application\\DTOs\\MenuPermissionDTOs\\GetMenuPermissionDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T13:58:45.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AddMenuPermissionDTO.cs",
+              "DocumentMoniker": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Application\\DTOs\\MenuPermissionDTOs\\AddMenuPermissionDTO.cs",
+              "RelativeDocumentMoniker": "AuthenticationAuthorization.Application\\DTOs\\MenuPermissionDTOs\\AddMenuPermissionDTO.cs",
+              "ToolTip": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Application\\DTOs\\MenuPermissionDTOs\\AddMenuPermissionDTO.cs",
+              "RelativeToolTip": "AuthenticationAuthorization.Application\\DTOs\\MenuPermissionDTOs\\AddMenuPermissionDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T13:58:37.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GetEmployeeDTO.cs",
+              "DocumentMoniker": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Application\\DTOs\\EmployeeDTOs\\GetEmployeeDTO.cs",
+              "RelativeDocumentMoniker": "AuthenticationAuthorization.Application\\DTOs\\EmployeeDTOs\\GetEmployeeDTO.cs",
+              "ToolTip": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Application\\DTOs\\EmployeeDTOs\\GetEmployeeDTO.cs",
+              "RelativeToolTip": "AuthenticationAuthorization.Application\\DTOs\\EmployeeDTOs\\GetEmployeeDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T13:58:32.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AddEmployeeDTO.cs",
+              "DocumentMoniker": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Application\\DTOs\\EmployeeDTOs\\AddEmployeeDTO.cs",
+              "RelativeDocumentMoniker": "AuthenticationAuthorization.Application\\DTOs\\EmployeeDTOs\\AddEmployeeDTO.cs",
+              "ToolTip": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Application\\DTOs\\EmployeeDTOs\\AddEmployeeDTO.cs",
+              "RelativeToolTip": "AuthenticationAuthorization.Application\\DTOs\\EmployeeDTOs\\AddEmployeeDTO.cs",
+              "ViewState": "AgIAAAEAAABAZmZmZmYkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T13:58:22.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UpdateRoleCommand.cs",
+              "DocumentMoniker": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Application\\Command\\Roles\\UpdateRoleCommand.cs",
+              "RelativeDocumentMoniker": "AuthenticationAuthorization.Application\\Command\\Roles\\UpdateRoleCommand.cs",
+              "ToolTip": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Application\\Command\\Roles\\UpdateRoleCommand.cs",
+              "RelativeToolTip": "AuthenticationAuthorization.Application\\Command\\Roles\\UpdateRoleCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T13:58:02.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UpdateUserCommand.cs",
+              "DocumentMoniker": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Application\\Command\\Users\\UpdateUserCommand.cs",
+              "RelativeDocumentMoniker": "AuthenticationAuthorization.Application\\Command\\Users\\UpdateUserCommand.cs",
+              "ToolTip": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Application\\Command\\Users\\UpdateUserCommand.cs",
+              "RelativeToolTip": "AuthenticationAuthorization.Application\\Command\\Users\\UpdateUserCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T13:57:39.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UpdateUserRoleCommand.cs",
+              "DocumentMoniker": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Application\\Command\\UserRoles\\UpdateUserRoleCommand.cs",
+              "RelativeDocumentMoniker": "AuthenticationAuthorization.Application\\Command\\UserRoles\\UpdateUserRoleCommand.cs",
+              "ToolTip": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Application\\Command\\UserRoles\\UpdateUserRoleCommand.cs",
+              "RelativeToolTip": "AuthenticationAuthorization.Application\\Command\\UserRoles\\UpdateUserRoleCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T13:57:35.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AddRoleCommand.cs",
+              "DocumentMoniker": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Application\\Command\\Roles\\AddRoleCommand.cs",
+              "RelativeDocumentMoniker": "AuthenticationAuthorization.Application\\Command\\Roles\\AddRoleCommand.cs",
+              "ToolTip": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Application\\Command\\Roles\\AddRoleCommand.cs",
+              "RelativeToolTip": "AuthenticationAuthorization.Application\\Command\\Roles\\AddRoleCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T13:56:17.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UpdateGetStaticDataTypeCommand.cs",
+              "DocumentMoniker": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Application\\Command\\StaticDataTypes\\UpdateGetStaticDataTypeCommand.cs",
+              "RelativeDocumentMoniker": "AuthenticationAuthorization.Application\\Command\\StaticDataTypes\\UpdateGetStaticDataTypeCommand.cs",
+              "ToolTip": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Application\\Command\\StaticDataTypes\\UpdateGetStaticDataTypeCommand.cs",
+              "RelativeToolTip": "AuthenticationAuthorization.Application\\Command\\StaticDataTypes\\UpdateGetStaticDataTypeCommand.cs",
+              "ViewState": "AgIAAAUAAAAAMjMzMzMbwAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T13:57:23.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DeleteStaticDataTypeCommand.cs",
+              "DocumentMoniker": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Application\\Command\\StaticDataTypes\\DeleteStaticDataTypeCommand.cs",
+              "RelativeDocumentMoniker": "AuthenticationAuthorization.Application\\Command\\StaticDataTypes\\DeleteStaticDataTypeCommand.cs",
+              "ToolTip": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Application\\Command\\StaticDataTypes\\DeleteStaticDataTypeCommand.cs",
+              "RelativeToolTip": "AuthenticationAuthorization.Application\\Command\\StaticDataTypes\\DeleteStaticDataTypeCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T13:57:15.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AddStaticDataTypeCommand.cs",
+              "DocumentMoniker": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Application\\Command\\StaticDataTypes\\AddStaticDataTypeCommand.cs",
+              "RelativeDocumentMoniker": "AuthenticationAuthorization.Application\\Command\\StaticDataTypes\\AddStaticDataTypeCommand.cs",
+              "ToolTip": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Application\\Command\\StaticDataTypes\\AddStaticDataTypeCommand.cs",
+              "RelativeToolTip": "AuthenticationAuthorization.Application\\Command\\StaticDataTypes\\AddStaticDataTypeCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T13:57:03.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UpdateStaticDataDetailCommand.cs",
+              "DocumentMoniker": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Application\\Command\\StaticDataDetails\\UpdateStaticDataDetailCommand.cs",
+              "RelativeDocumentMoniker": "AuthenticationAuthorization.Application\\Command\\StaticDataDetails\\UpdateStaticDataDetailCommand.cs",
+              "ToolTip": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Application\\Command\\StaticDataDetails\\UpdateStaticDataDetailCommand.cs",
+              "RelativeToolTip": "AuthenticationAuthorization.Application\\Command\\StaticDataDetails\\UpdateStaticDataDetailCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T13:56:52.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DeleteStaticDataDetailCommand.cs",
+              "DocumentMoniker": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Application\\Command\\StaticDataDetails\\DeleteStaticDataDetailCommand.cs",
+              "RelativeDocumentMoniker": "AuthenticationAuthorization.Application\\Command\\StaticDataDetails\\DeleteStaticDataDetailCommand.cs",
+              "ToolTip": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Application\\Command\\StaticDataDetails\\DeleteStaticDataDetailCommand.cs",
+              "RelativeToolTip": "AuthenticationAuthorization.Application\\Command\\StaticDataDetails\\DeleteStaticDataDetailCommand.cs",
+              "ViewState": "AgIAAAsAAAAAmJmZmZkKwAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T13:56:45.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AddStaticDataDetailCommand.cs",
+              "DocumentMoniker": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Application\\Command\\StaticDataDetails\\AddStaticDataDetailCommand.cs",
+              "RelativeDocumentMoniker": "AuthenticationAuthorization.Application\\Command\\StaticDataDetails\\AddStaticDataDetailCommand.cs",
+              "ToolTip": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Application\\Command\\StaticDataDetails\\AddStaticDataDetailCommand.cs",
+              "RelativeToolTip": "AuthenticationAuthorization.Application\\Command\\StaticDataDetails\\AddStaticDataDetailCommand.cs",
+              "ViewState": "AgIAABYAAABAZmZmZqYvwAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T13:56:31.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "UpdateRoleMenuPermissionCommand.cs",
+              "DocumentMoniker": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Application\\Command\\RoleMenuPermissions\\UpdateRoleMenuPermissionCommand.cs",
+              "RelativeDocumentMoniker": "AuthenticationAuthorization.Application\\Command\\RoleMenuPermissions\\UpdateRoleMenuPermissionCommand.cs",
+              "ToolTip": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Application\\Command\\RoleMenuPermissions\\UpdateRoleMenuPermissionCommand.cs",
+              "RelativeToolTip": "AuthenticationAuthorization.Application\\Command\\RoleMenuPermissions\\UpdateRoleMenuPermissionCommand.cs",
+              "ViewState": "AgIAABYAAABgzMzMzMwywAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T13:56:03.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AddRoleMenuPermissionCommand.cs",
+              "DocumentMoniker": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Application\\Command\\RoleMenuPermissions\\AddRoleMenuPermissionCommand.cs",
+              "RelativeDocumentMoniker": "AuthenticationAuthorization.Application\\Command\\RoleMenuPermissions\\AddRoleMenuPermissionCommand.cs",
+              "ToolTip": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Application\\Command\\RoleMenuPermissions\\AddRoleMenuPermissionCommand.cs",
+              "RelativeToolTip": "AuthenticationAuthorization.Application\\Command\\RoleMenuPermissions\\AddRoleMenuPermissionCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T13:55:52.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "UpdatePermissionCommand.cs",
+              "DocumentMoniker": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Application\\Command\\Permissions\\UpdatePermissionCommand.cs",
+              "RelativeDocumentMoniker": "AuthenticationAuthorization.Application\\Command\\Permissions\\UpdatePermissionCommand.cs",
+              "ToolTip": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Application\\Command\\Permissions\\UpdatePermissionCommand.cs",
+              "RelativeToolTip": "AuthenticationAuthorization.Application\\Command\\Permissions\\UpdatePermissionCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T13:55:38.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AddPermissionCommand.cs",
+              "DocumentMoniker": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Application\\Command\\Permissions\\AddPermissionCommand.cs",
+              "RelativeDocumentMoniker": "AuthenticationAuthorization.Application\\Command\\Permissions\\AddPermissionCommand.cs",
+              "ToolTip": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Application\\Command\\Permissions\\AddPermissionCommand.cs",
+              "RelativeToolTip": "AuthenticationAuthorization.Application\\Command\\Permissions\\AddPermissionCommand.cs",
+              "ViewState": "AgIAABMAAAAAy8zMzMwUwAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T13:55:26.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "UpdateMenuPermissionCommand.cs",
+              "DocumentMoniker": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Application\\Command\\MenuPermissions\\UpdateMenuPermissionCommand.cs",
+              "RelativeDocumentMoniker": "AuthenticationAuthorization.Application\\Command\\MenuPermissions\\UpdateMenuPermissionCommand.cs",
+              "ToolTip": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Application\\Command\\MenuPermissions\\UpdateMenuPermissionCommand.cs",
+              "RelativeToolTip": "AuthenticationAuthorization.Application\\Command\\MenuPermissions\\UpdateMenuPermissionCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T13:55:02.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AddMenuPermissionCommand.cs",
+              "DocumentMoniker": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Application\\Command\\MenuPermissions\\AddMenuPermissionCommand.cs",
+              "RelativeDocumentMoniker": "AuthenticationAuthorization.Application\\Command\\MenuPermissions\\AddMenuPermissionCommand.cs",
+              "ToolTip": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Application\\Command\\MenuPermissions\\AddMenuPermissionCommand.cs",
+              "RelativeToolTip": "AuthenticationAuthorization.Application\\Command\\MenuPermissions\\AddMenuPermissionCommand.cs",
+              "ViewState": "AgIAABAAAADgzMzMzOwwwAIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T13:54:49.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "UpdateEmployeeCommand.cs",
+              "DocumentMoniker": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Application\\Command\\Employees\\UpdateEmployeeCommand.cs",
+              "RelativeDocumentMoniker": "AuthenticationAuthorization.Application\\Command\\Employees\\UpdateEmployeeCommand.cs",
+              "ToolTip": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Application\\Command\\Employees\\UpdateEmployeeCommand.cs",
+              "RelativeToolTip": "AuthenticationAuthorization.Application\\Command\\Employees\\UpdateEmployeeCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T13:54:40.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "DeleteEmployeeCommand.cs",
+              "DocumentMoniker": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Application\\Command\\Employees\\DeleteEmployeeCommand.cs",
+              "RelativeDocumentMoniker": "AuthenticationAuthorization.Application\\Command\\Employees\\DeleteEmployeeCommand.cs",
+              "ToolTip": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Application\\Command\\Employees\\DeleteEmployeeCommand.cs",
+              "RelativeToolTip": "AuthenticationAuthorization.Application\\Command\\Employees\\DeleteEmployeeCommand.cs",
+              "ViewState": "AgIAAA0AAAAgMjMzMzMywAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T13:54:33.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "AddEmployeeCommand.cs",
+              "DocumentMoniker": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Application\\Command\\Employees\\AddEmployeeCommand.cs",
+              "RelativeDocumentMoniker": "AuthenticationAuthorization.Application\\Command\\Employees\\AddEmployeeCommand.cs",
+              "ToolTip": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Application\\Command\\Employees\\AddEmployeeCommand.cs",
+              "RelativeToolTip": "AuthenticationAuthorization.Application\\Command\\Employees\\AddEmployeeCommand.cs",
+              "ViewState": "AgIAACgAAAAAMjMzMzMXwAMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T13:54:18.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "AddEmployeeBulkCommand.cs",
+              "DocumentMoniker": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Application\\Command\\Employees\\AddEmployeeBulkCommand.cs",
+              "RelativeDocumentMoniker": "AuthenticationAuthorization.Application\\Command\\Employees\\AddEmployeeBulkCommand.cs",
+              "ToolTip": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Application\\Command\\Employees\\AddEmployeeBulkCommand.cs",
+              "RelativeToolTip": "AuthenticationAuthorization.Application\\Command\\Employees\\AddEmployeeBulkCommand.cs",
+              "ViewState": "AgIAAB0AAACAZWZmZmYiwAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T13:54:05.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "UpdateDepartmentCommand.cs",
+              "DocumentMoniker": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Application\\Command\\Departments\\UpdateDepartmentCommand.cs",
+              "RelativeDocumentMoniker": "AuthenticationAuthorization.Application\\Command\\Departments\\UpdateDepartmentCommand.cs",
+              "ToolTip": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Application\\Command\\Departments\\UpdateDepartmentCommand.cs",
+              "RelativeToolTip": "AuthenticationAuthorization.Application\\Command\\Departments\\UpdateDepartmentCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T13:53:50.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "DeleteDepartmentCommand.cs",
+              "DocumentMoniker": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Application\\Command\\Departments\\DeleteDepartmentCommand.cs",
+              "RelativeDocumentMoniker": "AuthenticationAuthorization.Application\\Command\\Departments\\DeleteDepartmentCommand.cs",
+              "ToolTip": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Application\\Command\\Departments\\DeleteDepartmentCommand.cs",
+              "RelativeToolTip": "AuthenticationAuthorization.Application\\Command\\Departments\\DeleteDepartmentCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T13:53:48.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "AddDepartmentsCommand.cs",
+              "DocumentMoniker": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Application\\Command\\Departments\\AddDepartmentsCommand.cs",
+              "RelativeDocumentMoniker": "AuthenticationAuthorization.Application\\Command\\Departments\\AddDepartmentsCommand.cs",
+              "ToolTip": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Application\\Command\\Departments\\AddDepartmentsCommand.cs",
+              "RelativeToolTip": "AuthenticationAuthorization.Application\\Command\\Departments\\AddDepartmentsCommand.cs",
+              "ViewState": "AgIAAAwAAADAzMzMzMwmwAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T13:53:36.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "UpdateCompanyCommand.cs",
+              "DocumentMoniker": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Application\\Command\\Companies\\UpdateCompanyCommand.cs",
+              "RelativeDocumentMoniker": "AuthenticationAuthorization.Application\\Command\\Companies\\UpdateCompanyCommand.cs",
+              "ToolTip": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Application\\Command\\Companies\\UpdateCompanyCommand.cs",
+              "RelativeToolTip": "AuthenticationAuthorization.Application\\Command\\Companies\\UpdateCompanyCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T13:53:20.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "UpdateBranchesCommand.cs",
+              "DocumentMoniker": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Application\\Command\\Branches\\UpdateBranchesCommand.cs",
+              "RelativeDocumentMoniker": "AuthenticationAuthorization.Application\\Command\\Branches\\UpdateBranchesCommand.cs",
+              "ToolTip": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Application\\Command\\Branches\\UpdateBranchesCommand.cs",
+              "RelativeToolTip": "AuthenticationAuthorization.Application\\Command\\Branches\\UpdateBranchesCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T13:52:48.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "DeleteBranchCommand.cs",
+              "DocumentMoniker": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Application\\Command\\Branches\\DeleteBranchCommand.cs",
+              "RelativeDocumentMoniker": "AuthenticationAuthorization.Application\\Command\\Branches\\DeleteBranchCommand.cs",
+              "ToolTip": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Application\\Command\\Branches\\DeleteBranchCommand.cs",
+              "RelativeToolTip": "AuthenticationAuthorization.Application\\Command\\Branches\\DeleteBranchCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T13:52:45.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "AddBranchesCommand.cs",
+              "DocumentMoniker": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Application\\Command\\Branches\\AddBranchesCommand.cs",
+              "RelativeDocumentMoniker": "AuthenticationAuthorization.Application\\Command\\Branches\\AddBranchesCommand.cs",
+              "ToolTip": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Application\\Command\\Branches\\AddBranchesCommand.cs",
+              "RelativeToolTip": "AuthenticationAuthorization.Application\\Command\\Branches\\AddBranchesCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T13:52:19.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "AddCompanyCommand.cs",
+              "DocumentMoniker": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Application\\Command\\Companies\\AddCompanyCommand.cs",
+              "RelativeDocumentMoniker": "AuthenticationAuthorization.Application\\Command\\Companies\\AddCompanyCommand.cs",
+              "ToolTip": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Application\\Command\\Companies\\AddCompanyCommand.cs",
+              "RelativeToolTip": "AuthenticationAuthorization.Application\\Command\\Companies\\AddCompanyCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T13:51:59.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "UserTokenRepo.cs",
+              "DocumentMoniker": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Infrastructure\\Repository\\UserTokenRepo.cs",
+              "RelativeDocumentMoniker": "AuthenticationAuthorization.Infrastructure\\Repository\\UserTokenRepo.cs",
+              "ToolTip": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Infrastructure\\Repository\\UserTokenRepo.cs",
+              "RelativeToolTip": "AuthenticationAuthorization.Infrastructure\\Repository\\UserTokenRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T13:51:29.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "UserRoleRepo.cs",
+              "DocumentMoniker": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Infrastructure\\Repository\\UserRoleRepo.cs",
+              "RelativeDocumentMoniker": "AuthenticationAuthorization.Infrastructure\\Repository\\UserRoleRepo.cs",
+              "ToolTip": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Infrastructure\\Repository\\UserRoleRepo.cs",
+              "RelativeToolTip": "AuthenticationAuthorization.Infrastructure\\Repository\\UserRoleRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T13:51:12.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "UserRepo.cs",
+              "DocumentMoniker": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Infrastructure\\Repository\\UserRepo.cs",
+              "RelativeDocumentMoniker": "AuthenticationAuthorization.Infrastructure\\Repository\\UserRepo.cs",
+              "ToolTip": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Infrastructure\\Repository\\UserRepo.cs",
+              "RelativeToolTip": "AuthenticationAuthorization.Infrastructure\\Repository\\UserRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T13:50:56.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Infrastructure\\Repository\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "AuthenticationAuthorization.Infrastructure\\Repository\\UnitOfWork.cs",
+              "ToolTip": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Infrastructure\\Repository\\UnitOfWork.cs",
+              "RelativeToolTip": "AuthenticationAuthorization.Infrastructure\\Repository\\UnitOfWork.cs",
+              "ViewState": "AgIAAB8AAAAAyMzMzMz8vyYAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T13:50:36.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "StaticDataTypeRepo.cs",
+              "DocumentMoniker": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Infrastructure\\Repository\\StaticDataTypeRepo.cs",
+              "RelativeDocumentMoniker": "AuthenticationAuthorization.Infrastructure\\Repository\\StaticDataTypeRepo.cs",
+              "ToolTip": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Infrastructure\\Repository\\StaticDataTypeRepo.cs",
+              "RelativeToolTip": "AuthenticationAuthorization.Infrastructure\\Repository\\StaticDataTypeRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T13:50:11.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "StaticDataDetailRepo.cs",
+              "DocumentMoniker": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Infrastructure\\Repository\\StaticDataDetailRepo.cs",
+              "RelativeDocumentMoniker": "AuthenticationAuthorization.Infrastructure\\Repository\\StaticDataDetailRepo.cs",
+              "ToolTip": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Infrastructure\\Repository\\StaticDataDetailRepo.cs",
+              "RelativeToolTip": "AuthenticationAuthorization.Infrastructure\\Repository\\StaticDataDetailRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T13:49:55.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "RoleRepo.cs",
+              "DocumentMoniker": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Infrastructure\\Repository\\RoleRepo.cs",
+              "RelativeDocumentMoniker": "AuthenticationAuthorization.Infrastructure\\Repository\\RoleRepo.cs",
+              "ToolTip": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Infrastructure\\Repository\\RoleRepo.cs",
+              "RelativeToolTip": "AuthenticationAuthorization.Infrastructure\\Repository\\RoleRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T13:49:37.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "RoleMenuPermissionRepo.cs",
+              "DocumentMoniker": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Infrastructure\\Repository\\RoleMenuPermissionRepo.cs",
+              "RelativeDocumentMoniker": "AuthenticationAuthorization.Infrastructure\\Repository\\RoleMenuPermissionRepo.cs",
+              "ToolTip": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Infrastructure\\Repository\\RoleMenuPermissionRepo.cs",
+              "RelativeToolTip": "AuthenticationAuthorization.Infrastructure\\Repository\\RoleMenuPermissionRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T13:49:18.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "PermissionRepo.cs",
+              "DocumentMoniker": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Infrastructure\\Repository\\PermissionRepo.cs",
+              "RelativeDocumentMoniker": "AuthenticationAuthorization.Infrastructure\\Repository\\PermissionRepo.cs",
+              "ToolTip": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Infrastructure\\Repository\\PermissionRepo.cs",
+              "RelativeToolTip": "AuthenticationAuthorization.Infrastructure\\Repository\\PermissionRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T13:48:52.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "MenuRepo.cs",
+              "DocumentMoniker": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Infrastructure\\Repository\\MenuRepo.cs",
+              "RelativeDocumentMoniker": "AuthenticationAuthorization.Infrastructure\\Repository\\MenuRepo.cs",
+              "ToolTip": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Infrastructure\\Repository\\MenuRepo.cs",
+              "RelativeToolTip": "AuthenticationAuthorization.Infrastructure\\Repository\\MenuRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T13:48:34.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "MenuPermissionRepo.cs",
+              "DocumentMoniker": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Infrastructure\\Repository\\MenuPermissionRepo.cs",
+              "RelativeDocumentMoniker": "AuthenticationAuthorization.Infrastructure\\Repository\\MenuPermissionRepo.cs",
+              "ToolTip": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Infrastructure\\Repository\\MenuPermissionRepo.cs",
+              "RelativeToolTip": "AuthenticationAuthorization.Infrastructure\\Repository\\MenuPermissionRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T13:47:52.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "EmployeeRepo.cs",
+              "DocumentMoniker": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Infrastructure\\Repository\\EmployeeRepo.cs",
+              "RelativeDocumentMoniker": "AuthenticationAuthorization.Infrastructure\\Repository\\EmployeeRepo.cs",
+              "ToolTip": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Infrastructure\\Repository\\EmployeeRepo.cs",
+              "RelativeToolTip": "AuthenticationAuthorization.Infrastructure\\Repository\\EmployeeRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T13:47:21.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "DepartmentRepo.cs",
+              "DocumentMoniker": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Infrastructure\\Repository\\DepartmentRepo.cs",
+              "RelativeDocumentMoniker": "AuthenticationAuthorization.Infrastructure\\Repository\\DepartmentRepo.cs",
+              "ToolTip": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Infrastructure\\Repository\\DepartmentRepo.cs",
+              "RelativeToolTip": "AuthenticationAuthorization.Infrastructure\\Repository\\DepartmentRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T13:46:55.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "CompanyRepo.cs",
+              "DocumentMoniker": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Infrastructure\\Repository\\CompanyRepo.cs",
+              "RelativeDocumentMoniker": "AuthenticationAuthorization.Infrastructure\\Repository\\CompanyRepo.cs",
+              "ToolTip": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Infrastructure\\Repository\\CompanyRepo.cs",
+              "RelativeToolTip": "AuthenticationAuthorization.Infrastructure\\Repository\\CompanyRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T13:46:37.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "GenericRepo.cs",
+              "DocumentMoniker": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Infrastructure\\Repository\\GenericRepo.cs",
+              "RelativeDocumentMoniker": "AuthenticationAuthorization.Infrastructure\\Repository\\GenericRepo.cs",
+              "ToolTip": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Infrastructure\\Repository\\GenericRepo.cs",
+              "RelativeToolTip": "AuthenticationAuthorization.Infrastructure\\Repository\\GenericRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T13:46:11.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "BranchesRepo.cs",
+              "DocumentMoniker": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Infrastructure\\Repository\\BranchesRepo.cs",
+              "RelativeDocumentMoniker": "AuthenticationAuthorization.Infrastructure\\Repository\\BranchesRepo.cs",
+              "ToolTip": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Infrastructure\\Repository\\BranchesRepo.cs",
+              "RelativeToolTip": "AuthenticationAuthorization.Infrastructure\\Repository\\BranchesRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T13:45:24.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "IUserToken.cs",
+              "DocumentMoniker": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Domain\\Interfaces\\IUserToken.cs",
+              "RelativeDocumentMoniker": "AuthenticationAuthorization.Domain\\Interfaces\\IUserToken.cs",
+              "ToolTip": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Domain\\Interfaces\\IUserToken.cs",
+              "RelativeToolTip": "AuthenticationAuthorization.Domain\\Interfaces\\IUserToken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T13:37:43.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "IUserRoleRepo.cs",
+              "DocumentMoniker": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Domain\\Interfaces\\IUserRoleRepo.cs",
+              "RelativeDocumentMoniker": "AuthenticationAuthorization.Domain\\Interfaces\\IUserRoleRepo.cs",
+              "ToolTip": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Domain\\Interfaces\\IUserRoleRepo.cs",
+              "RelativeToolTip": "AuthenticationAuthorization.Domain\\Interfaces\\IUserRoleRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T13:37:30.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Domain\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "AuthenticationAuthorization.Domain\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Domain\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "AuthenticationAuthorization.Domain\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T13:37:23.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "LoginCommand.cs",
+              "DocumentMoniker": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Application\\Command\\Auth\\LoginCommand.cs",
+              "RelativeDocumentMoniker": "AuthenticationAuthorization.Application\\Command\\Auth\\LoginCommand.cs",
+              "ToolTip": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Application\\Command\\Auth\\LoginCommand.cs",
+              "RelativeToolTip": "AuthenticationAuthorization.Application\\Command\\Auth\\LoginCommand.cs",
+              "ViewState": "AgIAAEYAAAAArszMzMwUwKQAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T13:33:25.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "IGenericRepo.cs",
+              "DocumentMoniker": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Domain\\Interfaces\\IGenericRepo.cs",
+              "RelativeDocumentMoniker": "AuthenticationAuthorization.Domain\\Interfaces\\IGenericRepo.cs",
+              "ToolTip": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Domain\\Interfaces\\IGenericRepo.cs",
+              "RelativeToolTip": "AuthenticationAuthorization.Domain\\Interfaces\\IGenericRepo.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAMwBIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T13:35:44.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "IStaticDataTypeRepo.cs",
+              "DocumentMoniker": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Domain\\Interfaces\\IStaticDataTypeRepo.cs",
+              "RelativeDocumentMoniker": "AuthenticationAuthorization.Domain\\Interfaces\\IStaticDataTypeRepo.cs",
+              "ToolTip": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Domain\\Interfaces\\IStaticDataTypeRepo.cs",
+              "RelativeToolTip": "AuthenticationAuthorization.Domain\\Interfaces\\IStaticDataTypeRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T13:37:11.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "IStaticDataDetailRepo.cs",
+              "DocumentMoniker": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Domain\\Interfaces\\IStaticDataDetailRepo.cs",
+              "RelativeDocumentMoniker": "AuthenticationAuthorization.Domain\\Interfaces\\IStaticDataDetailRepo.cs",
+              "ToolTip": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Domain\\Interfaces\\IStaticDataDetailRepo.cs",
+              "RelativeToolTip": "AuthenticationAuthorization.Domain\\Interfaces\\IStaticDataDetailRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T13:37:03.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "IRoleRepo.cs",
+              "DocumentMoniker": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Domain\\Interfaces\\IRoleRepo.cs",
+              "RelativeDocumentMoniker": "AuthenticationAuthorization.Domain\\Interfaces\\IRoleRepo.cs",
+              "ToolTip": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Domain\\Interfaces\\IRoleRepo.cs",
+              "RelativeToolTip": "AuthenticationAuthorization.Domain\\Interfaces\\IRoleRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T13:36:51.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "IUserRepo.cs",
+              "DocumentMoniker": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Domain\\Interfaces\\IUserRepo.cs",
+              "RelativeDocumentMoniker": "AuthenticationAuthorization.Domain\\Interfaces\\IUserRepo.cs",
+              "ToolTip": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Domain\\Interfaces\\IUserRepo.cs",
+              "RelativeToolTip": "AuthenticationAuthorization.Domain\\Interfaces\\IUserRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T13:34:26.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "IRoleMenuPermissionRepo.cs",
+              "DocumentMoniker": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Domain\\Interfaces\\IRoleMenuPermissionRepo.cs",
+              "RelativeDocumentMoniker": "AuthenticationAuthorization.Domain\\Interfaces\\IRoleMenuPermissionRepo.cs",
+              "ToolTip": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Domain\\Interfaces\\IRoleMenuPermissionRepo.cs",
+              "RelativeToolTip": "AuthenticationAuthorization.Domain\\Interfaces\\IRoleMenuPermissionRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T13:36:40.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "IPermissionRepo.cs",
+              "DocumentMoniker": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Domain\\Interfaces\\IPermissionRepo.cs",
+              "RelativeDocumentMoniker": "AuthenticationAuthorization.Domain\\Interfaces\\IPermissionRepo.cs",
+              "ToolTip": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Domain\\Interfaces\\IPermissionRepo.cs",
+              "RelativeToolTip": "AuthenticationAuthorization.Domain\\Interfaces\\IPermissionRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T13:36:30.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "IMenuRepo.cs",
+              "DocumentMoniker": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Domain\\Interfaces\\IMenuRepo.cs",
+              "RelativeDocumentMoniker": "AuthenticationAuthorization.Domain\\Interfaces\\IMenuRepo.cs",
+              "ToolTip": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Domain\\Interfaces\\IMenuRepo.cs",
+              "RelativeToolTip": "AuthenticationAuthorization.Domain\\Interfaces\\IMenuRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T13:36:01.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "IMenuPermissionRepo.cs",
+              "DocumentMoniker": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Domain\\Interfaces\\IMenuPermissionRepo.cs",
+              "RelativeDocumentMoniker": "AuthenticationAuthorization.Domain\\Interfaces\\IMenuPermissionRepo.cs",
+              "ToolTip": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Domain\\Interfaces\\IMenuPermissionRepo.cs",
+              "RelativeToolTip": "AuthenticationAuthorization.Domain\\Interfaces\\IMenuPermissionRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T13:35:50.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "IEmployeeRepo.cs",
+              "DocumentMoniker": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Domain\\Interfaces\\IEmployeeRepo.cs",
+              "RelativeDocumentMoniker": "AuthenticationAuthorization.Domain\\Interfaces\\IEmployeeRepo.cs",
+              "ToolTip": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Domain\\Interfaces\\IEmployeeRepo.cs",
+              "RelativeToolTip": "AuthenticationAuthorization.Domain\\Interfaces\\IEmployeeRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T13:35:33.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "IDepartmentRepo.cs",
+              "DocumentMoniker": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Domain\\Interfaces\\IDepartmentRepo.cs",
+              "RelativeDocumentMoniker": "AuthenticationAuthorization.Domain\\Interfaces\\IDepartmentRepo.cs",
+              "ToolTip": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Domain\\Interfaces\\IDepartmentRepo.cs",
+              "RelativeToolTip": "AuthenticationAuthorization.Domain\\Interfaces\\IDepartmentRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T13:35:19.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "ICompanyRepo.cs",
+              "DocumentMoniker": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Domain\\Interfaces\\ICompanyRepo.cs",
+              "RelativeDocumentMoniker": "AuthenticationAuthorization.Domain\\Interfaces\\ICompanyRepo.cs",
+              "ToolTip": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Domain\\Interfaces\\ICompanyRepo.cs",
+              "RelativeToolTip": "AuthenticationAuthorization.Domain\\Interfaces\\ICompanyRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T13:35:08.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "IBranchRepo.cs",
+              "DocumentMoniker": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Domain\\Interfaces\\IBranchRepo.cs",
+              "RelativeDocumentMoniker": "AuthenticationAuthorization.Domain\\Interfaces\\IBranchRepo.cs",
+              "ToolTip": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Domain\\Interfaces\\IBranchRepo.cs",
+              "RelativeToolTip": "AuthenticationAuthorization.Domain\\Interfaces\\IBranchRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T13:34:55.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "StaticDataTypeController.cs",
+              "DocumentMoniker": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.API\\Controllers\\StaticDataTypeController.cs",
+              "RelativeDocumentMoniker": "AuthenticationAuthorization.API\\Controllers\\StaticDataTypeController.cs",
+              "ToolTip": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.API\\Controllers\\StaticDataTypeController.cs",
+              "RelativeToolTip": "AuthenticationAuthorization.API\\Controllers\\StaticDataTypeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T13:33:12.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "RoleMenuPermissionController.cs",
+              "DocumentMoniker": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.API\\Controllers\\RoleMenuPermissionController.cs",
+              "RelativeDocumentMoniker": "AuthenticationAuthorization.API\\Controllers\\RoleMenuPermissionController.cs",
+              "ToolTip": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.API\\Controllers\\RoleMenuPermissionController.cs",
+              "RelativeToolTip": "AuthenticationAuthorization.API\\Controllers\\RoleMenuPermissionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T13:33:10.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.API\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "AuthenticationAuthorization.API\\Controllers\\RoleController.cs",
+              "ToolTip": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.API\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "AuthenticationAuthorization.API\\Controllers\\RoleController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T13:33:07.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.API\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "AuthenticationAuthorization.API\\Controllers\\DepartmentController.cs",
+              "ToolTip": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.API\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "AuthenticationAuthorization.API\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAACQAAACA/f////8nwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T13:32:49.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "PermissionController.cs",
+              "DocumentMoniker": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.API\\Controllers\\PermissionController.cs",
+              "RelativeDocumentMoniker": "AuthenticationAuthorization.API\\Controllers\\PermissionController.cs",
+              "ToolTip": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.API\\Controllers\\PermissionController.cs",
+              "RelativeToolTip": "AuthenticationAuthorization.API\\Controllers\\PermissionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T13:33:05.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "MenuController.cs",
+              "DocumentMoniker": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.API\\Controllers\\MenuController.cs",
+              "RelativeDocumentMoniker": "AuthenticationAuthorization.API\\Controllers\\MenuController.cs",
+              "ToolTip": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.API\\Controllers\\MenuController.cs",
+              "RelativeToolTip": "AuthenticationAuthorization.API\\Controllers\\MenuController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T13:32:58.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.API\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "AuthenticationAuthorization.API\\Controllers\\EmployeeController.cs",
+              "ToolTip": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.API\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "AuthenticationAuthorization.API\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T13:32:55.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "MenuPermissionController.cs",
+              "DocumentMoniker": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.API\\Controllers\\MenuPermissionController.cs",
+              "RelativeDocumentMoniker": "AuthenticationAuthorization.API\\Controllers\\MenuPermissionController.cs",
+              "ToolTip": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.API\\Controllers\\MenuPermissionController.cs",
+              "RelativeToolTip": "AuthenticationAuthorization.API\\Controllers\\MenuPermissionController.cs",
+              "ViewState": "AgIAADAAAAComZmZmZkZwEUAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T13:32:28.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "CompanyController.cs",
+              "DocumentMoniker": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.API\\Controllers\\CompanyController.cs",
+              "RelativeDocumentMoniker": "AuthenticationAuthorization.API\\Controllers\\CompanyController.cs",
+              "ToolTip": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.API\\Controllers\\CompanyController.cs",
+              "RelativeToolTip": "AuthenticationAuthorization.API\\Controllers\\CompanyController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T13:32:47.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "AuthenticationAuthorization.API\\Controllers\\AuthController.cs",
+              "ToolTip": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "AuthenticationAuthorization.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T13:32:39.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Application\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "AuthenticationAuthorization.Application\\Mapping\\MappingProfile.cs",
+              "ToolTip": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Application\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "AuthenticationAuthorization.Application\\Mapping\\MappingProfile.cs",
+              "ViewState": "AgIAAE8AAACgmZmZmZktwEUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T13:16:13.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "AuthenticationAuthorization.Application\\DependencyInjection.cs",
+              "ToolTip": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Application\\DependencyInjection.cs",
+              "RelativeToolTip": "AuthenticationAuthorization.Application\\DependencyInjection.cs",
+              "ViewState": "AgIAAAMAAAD0//////8vwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T13:13:52.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "AuthenticationAuthorization.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "AuthenticationAuthorization.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAAAwAAAAAMDMzMzMbwDMAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T13:10:21.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Domain\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "AuthenticationAuthorization.Domain\\DependencyInjection.cs",
+              "ToolTip": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Domain\\DependencyInjection.cs",
+              "RelativeToolTip": "AuthenticationAuthorization.Domain\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T13:06:00.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "JwtOption.cs",
+              "DocumentMoniker": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Domain\\Options\\JwtOption.cs",
+              "RelativeDocumentMoniker": "AuthenticationAuthorization.Domain\\Options\\JwtOption.cs",
+              "ToolTip": "E:\\AuthenticationAuthorization\\AuthenticationAuthorization.Solution\\AuthenticationAuthorization.Domain\\Options\\JwtOption.cs",
+              "RelativeToolTip": "AuthenticationAuthorization.Domain\\Options\\JwtOption.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T13:05:41.104Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

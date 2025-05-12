@@ -1,0 +1,590 @@
+[
+  {
+    "ContainingType": "AuthenticationAuthorization.API.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/Auth/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "AuthenticationAuthorization.Application.DTOs.AuthDTOs.LoginDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AuthenticationAuthorization.API.Controllers.BranchController",
+    "Method": "AddBranchAsync",
+    "RelativePath": "api/Branch/AddBranch",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "entity",
+        "Type": "AuthenticationAuthorization.Application.DTOs.BranchDTOs.AddBranchesDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AuthenticationAuthorization.API.Controllers.BranchController",
+    "Method": "GetClientIp",
+    "RelativePath": "api/Branch/get-ip",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AuthenticationAuthorization.API.Controllers.BranchController",
+    "Method": "GetAllBranchesAsync",
+    "RelativePath": "api/Branch/GetAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AuthenticationAuthorization.API.Controllers.BranchController",
+    "Method": "GetBrancheByIdAsync",
+    "RelativePath": "api/Branch/GetBranchById/{Id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AuthenticationAuthorization.API.Controllers.BranchController",
+    "Method": "UpdateBranchAsync",
+    "RelativePath": "api/Branch/UpdateBranch",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "entity",
+        "Type": "AuthenticationAuthorization.Application.DTOs.BranchDTOs.UpdateBranchesDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AuthenticationAuthorization.API.Controllers.CompanyController",
+    "Method": "AddCompanyAsync",
+    "RelativePath": "api/Company/AddCompany",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "entity",
+        "Type": "AuthenticationAuthorization.Application.DTOs.CompanyDTOs.AddCompanyDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AuthenticationAuthorization.API.Controllers.CompanyController",
+    "Method": "GetAllCompaniesAsync",
+    "RelativePath": "api/Company/GetAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AuthenticationAuthorization.API.Controllers.CompanyController",
+    "Method": "GetCompanyByIdAsync",
+    "RelativePath": "api/Company/GetCompanyById/{Id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AuthenticationAuthorization.API.Controllers.CompanyController",
+    "Method": "UpdateCompanyAsync",
+    "RelativePath": "api/Company/UpdateCompany/{id}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "entity",
+        "Type": "AuthenticationAuthorization.Application.DTOs.CompanyDTOs.UpdateCompanyDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AuthenticationAuthorization.API.Controllers.DepartmentController",
+    "Method": "AddDepartmentAsync",
+    "RelativePath": "api/Department/AddDepartment",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "entity",
+        "Type": "AuthenticationAuthorization.Application.DTOs.DepartmentDTOs.AddDepartmentsDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AuthenticationAuthorization.API.Controllers.DepartmentController",
+    "Method": "GetAllDepartmentsAsync",
+    "RelativePath": "api/Department/GetAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AuthenticationAuthorization.API.Controllers.DepartmentController",
+    "Method": "GetDepartmentByIdAsync",
+    "RelativePath": "api/Department/GetDepartmentById/{Id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AuthenticationAuthorization.API.Controllers.DepartmentController",
+    "Method": "UpdateDepartmentAsync",
+    "RelativePath": "api/Department/UpdateDepartment",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "entity",
+        "Type": "AuthenticationAuthorization.Application.DTOs.DepartmentDTOs.UpdateDepartmentsDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AuthenticationAuthorization.API.Controllers.EmployeeController",
+    "Method": "AddEmployeeAsync",
+    "RelativePath": "api/Employee/add",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "entity",
+        "Type": "AuthenticationAuthorization.Application.DTOs.EmployeeDTOs.AddEmployeeDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AuthenticationAuthorization.API.Controllers.MenuController",
+    "Method": "AddMenuAsync",
+    "RelativePath": "api/Menu/AddMenu",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "entity",
+        "Type": "AuthenticationAuthorization.Application.DTOs.MenuDTOs.AddMenuDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AuthenticationAuthorization.API.Controllers.MenuController",
+    "Method": "GetAllMenusAsync",
+    "RelativePath": "api/Menu/GetAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AuthenticationAuthorization.API.Controllers.MenuPermissionController",
+    "Method": "AddMenuPermissionAsync",
+    "RelativePath": "api/MenuPermission/AddMenuPermission",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "entity",
+        "Type": "AuthenticationAuthorization.Application.DTOs.MenuPermissionDTOs.AddMenuPermissionDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AuthenticationAuthorization.API.Controllers.MenuPermissionController",
+    "Method": "GetAllMenuPermissionsAsync",
+    "RelativePath": "api/MenuPermission/GetAllMenuPermissions",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AuthenticationAuthorization.API.Controllers.MenuPermissionController",
+    "Method": "GetMenuPermissionByIdAsync",
+    "RelativePath": "api/MenuPermission/GetMenuPermissionById/{Id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AuthenticationAuthorization.API.Controllers.MenuPermissionController",
+    "Method": "UpdateMenuPermissionAsync",
+    "RelativePath": "api/MenuPermission/UpdateMenuPermission",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "entity",
+        "Type": "AuthenticationAuthorization.Application.DTOs.MenuPermissionDTOs.UpdateMenuPermissionDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AuthenticationAuthorization.API.Controllers.PermissionController",
+    "Method": "AddPermissionAsync",
+    "RelativePath": "api/Permission/AddPermission",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "entity",
+        "Type": "AuthenticationAuthorization.Application.DTOs.PermissionDTOs.AddPermissionDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AuthenticationAuthorization.API.Controllers.PermissionController",
+    "Method": "GetAllPermissionsAsync",
+    "RelativePath": "api/Permission/GetAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AuthenticationAuthorization.API.Controllers.PermissionController",
+    "Method": "GetPermissionByIdAsync",
+    "RelativePath": "api/Permission/GetPermissionById/{Id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AuthenticationAuthorization.API.Controllers.PermissionController",
+    "Method": "UpdatePermissionAsync",
+    "RelativePath": "api/Permission/UpdatePermission",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "entity",
+        "Type": "AuthenticationAuthorization.Application.DTOs.PermissionDTOs.UpdatePermisionDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AuthenticationAuthorization.API.Controllers.RoleController",
+    "Method": "AddRoleAsync",
+    "RelativePath": "api/Role/AddRole",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "entity",
+        "Type": "AuthenticationAuthorization.Application.DTOs.RoleDTOs.AddRoleDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AuthenticationAuthorization.API.Controllers.RoleController",
+    "Method": "GetAllRolesAsync",
+    "RelativePath": "api/Role/GetAllRoles",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AuthenticationAuthorization.API.Controllers.RoleController",
+    "Method": "GetRoleByIdAsync",
+    "RelativePath": "api/Role/GetRoleById/{Id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AuthenticationAuthorization.API.Controllers.RoleController",
+    "Method": "UpdateRoleAsync",
+    "RelativePath": "api/Role/UpdateRole",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "entity",
+        "Type": "AuthenticationAuthorization.Application.DTOs.RoleDTOs.UpdateRoleDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AuthenticationAuthorization.API.Controllers.RoleMenuPermissionController",
+    "Method": "AddRoleMenuPermissionAsync",
+    "RelativePath": "api/RoleMenuPermission/AddRoleMenuPermission",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "entity",
+        "Type": "AuthenticationAuthorization.Application.DTOs.RoleMenuPermissionDTOs.AddRoleMenuPermissionDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AuthenticationAuthorization.API.Controllers.RoleMenuPermissionController",
+    "Method": "GetAllRoleMenuPermissionsAsync",
+    "RelativePath": "api/RoleMenuPermission/GetAllRoleMenuPermissions",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AuthenticationAuthorization.API.Controllers.RoleMenuPermissionController",
+    "Method": "GetRoleMenuPermissionByIdAsync",
+    "RelativePath": "api/RoleMenuPermission/GetRoleMenuPermissionById/{Id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AuthenticationAuthorization.API.Controllers.RoleMenuPermissionController",
+    "Method": "UpdateRoleMenuPermissionAsync",
+    "RelativePath": "api/RoleMenuPermission/UpdateRoleMenuPermission",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "entity",
+        "Type": "AuthenticationAuthorization.Application.DTOs.RoleMenuPermissionDTOs.UpdateRoleMenuPermissionDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AuthenticationAuthorization.API.Controllers.StaticDataTypeController",
+    "Method": "GetStaticDataTypeByIdAsync",
+    "RelativePath": "api/StaticDataType/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AuthenticationAuthorization.API.Controllers.StaticDataTypeController",
+    "Method": "AddStaticDataTypeAsync",
+    "RelativePath": "api/StaticDataType/add",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "entity",
+        "Type": "AuthenticationAuthorization.Application.DTOs.StaticDataTypeDTOs.AddStaticDataTypeDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AuthenticationAuthorization.API.Controllers.StaticDataTypeController",
+    "Method": "DeleteStaticDataTypeAsync",
+    "RelativePath": "api/StaticDataType/delete/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AuthenticationAuthorization.API.Controllers.StaticDataTypeController",
+    "Method": "GetAllStaticDataTypesAsync",
+    "RelativePath": "api/StaticDataType/GetAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AuthenticationAuthorization.API.Controllers.StaticDataTypeController",
+    "Method": "UpdateStaticDataTypeAsync",
+    "RelativePath": "api/StaticDataType/Update",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "entity",
+        "Type": "AuthenticationAuthorization.Application.DTOs.StaticDataTypeDTOs.UpdateStaticTypeDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
