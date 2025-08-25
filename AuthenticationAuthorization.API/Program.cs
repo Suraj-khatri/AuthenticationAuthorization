@@ -1,4 +1,5 @@
 ﻿using AuthenticationAuthorization.API;
+using AuthenticationAuthorization.API.Loggings;
 using AuthenticationAuthorization.Domain.Options;
 using MailKit.Security;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
@@ -16,40 +17,43 @@ using System.Text;
 var builder = WebApplication.CreateBuilder(args);
 
 // Configure Logging
-builder.Host.UseSerilog((context, services, configuration) =>
-{
-    var emailSettings = builder.Configuration.GetSection("EmailSettings").Get<EmailSettings>();
-    var emailOptions = new EmailSinkOptions
-    {
-        From = emailSettings.From,
-        To = emailSettings.To,
-        Host = emailSettings.Host,
-        Port = emailSettings.Port,
-        Credentials = new System.Net.NetworkCredential(emailSettings.Username, emailSettings.Password),
-        Subject = new MessageTemplateTextFormatter(emailSettings.Subject),
-        Body = new MessageTemplateTextFormatter(emailSettings.Body),
-        IsBodyHtml = emailSettings.IsBodyHtml,
-        ConnectionSecurity = emailSettings.ConnectionSecurity == "StartTls"
-        ? SecureSocketOptions.StartTls
-        : SecureSocketOptions.Auto // You can expand this if needed for SslOnConnect or None
-    };
+//builder.Host.UseSerilog((context, services, configuration) =>
+//{
+//    var emailSettings = builder.Configuration.GetSection("EmailSettings").Get<EmailSettings>();
+//    var emailOptions = new EmailSinkOptions
+//    {
+//        From = emailSettings.From,
+//        To = emailSettings.To,
+//        Host = emailSettings.Host,
+//        Port = emailSettings.Port,
+//        Credentials = new System.Net.NetworkCredential(emailSettings.Username, emailSettings.Password),
+//        Subject = new MessageTemplateTextFormatter(emailSettings.Subject),
+//        Body = new MessageTemplateTextFormatter(emailSettings.Body),
+//        IsBodyHtml = emailSettings.IsBodyHtml,
+//        ConnectionSecurity = emailSettings.ConnectionSecurity == "StartTls"
+//        ? SecureSocketOptions.StartTls
+//        : SecureSocketOptions.Auto // You can expand this if needed for SslOnConnect or None
+//    };
 
-    configuration
-        .MinimumLevel.Information() // Default minimum log level
-        .MinimumLevel.Override("Microsoft", LogEventLevel.Warning) // Override log level for Microsoft namespace
-        .Enrich.FromLogContext() // Enrich log context with additional info like UserId
-        .WriteTo.Console() // Write logs to console for development/debugging
-        .WriteTo.File("Logs/log-.txt", rollingInterval: RollingInterval.Day) // Write logs to a file, rolling daily
-        .WriteTo.MSSqlServer(
-            context.Configuration.GetConnectionString("DefaultConnection"),
-            sinkOptions: new MSSqlServerSinkOptions { TableName = "Logs", AutoCreateSqlTable = true },
-            restrictedToMinimumLevel: LogEventLevel.Information // Logs to SQL Server at Information level and above
-        )
-        .WriteTo.Email(
-            options: emailOptions, // Send logs via email with configured options
-            restrictedToMinimumLevel: LogEventLevel.Information // Only send errors or higher level logs via email
-        );
-});
+//    configuration
+//        .MinimumLevel.Information() // Default minimum log level
+//        .MinimumLevel.Override("Microsoft", LogEventLevel.Warning) // Override log level for Microsoft namespace
+//        .Enrich.FromLogContext() // Enrich log context with additional info like UserId
+//        .WriteTo.Console() // Write logs to console for development/debugging
+//        .WriteTo.File("Loggings/Logs/log-.txt", rollingInterval: RollingInterval.Day) // Write logs to a file, rolling daily
+//        .WriteTo.MSSqlServer(
+//            context.Configuration.GetConnectionString("DefaultConnection"),
+//            sinkOptions: new MSSqlServerSinkOptions { TableName = "Logs", AutoCreateSqlTable = true },
+//            restrictedToMinimumLevel: LogEventLevel.Information // Logs to SQL Server at Information level and above
+//        )
+//        .WriteTo.Email(
+//            options: emailOptions, // Send logs via email with configured options
+//            restrictedToMinimumLevel: LogEventLevel.Information // Only send errors or higher level logs via email
+//        );
+//});
+
+// Call custom Serilog config
+SerilogConfiguration.ConfigureSerilog(builder.Host, builder.Configuration);
 
 // Add services to the container.
 

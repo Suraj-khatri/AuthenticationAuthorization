@@ -30,7 +30,8 @@ namespace AuthenticationAuthorization.API.Helpers
             if (status == "Error")
                 log.Error(exception, "Error in {ControllerName}/{ActionName} [CorrelationId: {CorrelationId}, IpAddress: {IpAddress}]", controllerName, actionName, correlationId, ipAddress);
             else
-                log.Information("Success at {ControllerName}/{ActionName} [CorrelationId: {CorrelationId}, IpAddress: {IpAddress}]", controllerName, actionName, correlationId, ipAddress);
+                log.Information("Success at {Controller}/{Action} [CorrelationId: {CorrelationId}, IpAddress: {IpAddress}]",
+                    controllerName, actionName, correlationId, ipAddress);
 
             await Task.CompletedTask;
         }
