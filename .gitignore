@@ -4,15 +4,16 @@
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 
 # User-specific files
-# Ignore Visual Studio temporary files, build results, and debug folders
+# Ignore build output folders everywhere
+**/bin/
+**/obj/
+**/Debug/
+**/Release/
+
+# Ignore Visual Studio files
 .vs/
-bin/
-obj/
-Debug/
-Release/
-*.rsuser
-*.suo
 *.user
+*.suo
 *.userosscache
 *.sln.docstates
 
